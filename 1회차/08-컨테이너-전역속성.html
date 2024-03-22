@@ -1,0 +1,29 @@
+<!-- 문서의 기본구조 -->
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>컨테이너 & 전역속성</title>
+    </head>
+    <body>
+        <!-- div는 블록레벨콘테이너. div안에 p태그-->
+        <!-- id 는 하나의 요소당 하나의 값을 줄 수 있다. -->
+        <!-- class는 두개의 값을 가질 수 있다. -->
+        <div id="study">
+            <p class="text content">행복하고 즐거워요</p>
+            <p class="text">행복하고 즐거운 HTML 공부</p>
+        </div>
+        <div id="diet">
+            <p class="text">슬프고 힘들어요</p>
+            <p class="text">적게먹고 운동하는 다이어트</p>
+        </div>
+       <p>
+        예능 프로그램 즐겨보시나요?
+        <!-- 여러내용중 이부분만 따로묶어 놓은 span, 추후 기능, 스타일 추가시 별도의 처리가능. 인라인컨테이너(특정요소, 특정내용에 대해 따로 영역을 구분해줄때 사용.) -->
+        저는 <span title="방탈출 예능 프로그램">
+            대탈츨
+        </span>
+        재미있게 보고 있습니다!
+       </p>
+    </body>
+</html>
