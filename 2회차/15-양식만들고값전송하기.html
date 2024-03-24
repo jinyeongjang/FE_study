@@ -1,0 +1,27 @@
+<!-- 문서의 기본구조 -->
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <!-- 문서의 인코딩 방식(글자가 깨지지 않게!) -->
+        <meta charset="utf-8">
+        <title>양식 만들고 입력 정보 보내기</title>
+    </head>
+    <body>
+        <form action="none.com" method="post">
+
+            <!-- 서버로 전송하기 위한 name 식별값 필요 -->
+            <label for="name">이름</label>
+            <input id="name" type="text" name="name">
+            <br>
+            <label for="age">나이</label>
+            <input id="age" type="number" name="age">
+            <br>
+            <label for="character">성격</label>
+            <textarea id="character" name="character">
+
+            </textarea>
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+</html>

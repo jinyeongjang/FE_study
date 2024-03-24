@@ -1,0 +1,43 @@
+<!-- 문서의 기본구조 -->
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <!-- 문서의 인코딩 방식(글자가 깨지지 않게!) -->
+        <meta charset="utf-8">
+        <title>표 만들기</title>
+    </head>
+
+    <body>
+        <!-- table 만들 때 몇행부터 만들것인지 결정해야된다. -->
+        <!-- table 기본요소는 테두리가 없기때문에 border를 지정해줘야 한다. -->
+        <table border="1">
+            <caption>
+                <storng>마라톤 참가선수 명단</storng>
+            </caption>
+            <!-- thead, tbody, tfoot, 웹 접근성 향상 및 사이트 성능 개선. -->
+            <thead>
+            <tr>
+                <th>한국선수</th>
+                <th>일본선수</th>
+                <th>미국선수</th>
+                </tr>
+            </thead>
+
+            <tbody>
+            <tr>
+                <td>김철수</td>
+                <td>오오다</td>
+                <td>제임스</td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+            <tr>
+                <td>세계랭킹 5위</td>
+                <td>세계랭킹 8위</td>
+                <td>세계랭킹 2위</td>
+            </tr>
+        </tfoot>
+        </table>
+    </body>
+</html>

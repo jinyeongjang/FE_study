@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>설문조사 양식</title>
+    
+</head>
+<body>
+    <!-- 설문조사 양식을 작성하기 전 파트별로 시멘틱 태그 부여. header(머릿말), main(주요콘텐츠), footer(맺은말) -->
+    <header>
+        <h1>스마트폰 웹 어플리케이션 호환성 개선을 위한 설문조사</h1>
+        <p>모든 항목에 빠짐없이 체크해주십시오.</p>
+    </header>
+    <hr>
+    <main>
+        <form>
+            <!-- fieldset은 네모칸 -->
+            <fieldset>
+                <legend>개인정보</legend>
+                <label for="name">이름</label>
+                <input type="text"
+                name="name"
+                id="name" placeholder="본명을 입력하세요">
+                <br>
+                <label for="email">이메일</label>
+                <input type="text"
+                name="email"
+                id="email" placeholder="메일 주소를 입력하세요">
+            </fieldset>
+            <fieldset>
+                <legend>설문</legend>
+
+                <p>1. 사용하고 계시는 휴대전화의 제조사를 선택해주세요.</p>
+                <!-- 입력요소에 구분을 해주지 않으면 중복선택이 된다. form에서의 입력요소의 식별자는 name이 필요하다. name을 써줌으로써 하나의 질문에 묶이게 된다. 하나의 답에만 선택할 수 있도록 바뀐다. -->
+                <input type="radio" id="samsung" name="make">
+                <label for="samsung">삼성(갤럭시)</label>
+                <input type="radio" id="apple" name="make">
+                <label for="apple">애플(아이폰)</label>
+                <input type="radio" id="lg" name="make">
+                <label for="lg">LG폰</label>
+                <input type="radio" id="other" name="make">
+                <label for="other">그 외 휴대폰을 사용하고 있습니다.</label>
+                <br>
+                <br>
+
+                <p>2. 전자제품을 구매할 때 중요한 것 을 선택해주세요. (중복선택 가능)</p>
+                <!-- checkbox는 기본적으로 중복선택이 가능하여, name을 써주지 않아도 되나, 가능하면 form을 만들때 name속성을 모든 입력요소에 추가하는것이 좋다. -->
+                <input type="checkbox" id="price" name="purchase">
+                <label for="price">가격</label>
+                <input type="checkbox" id="brand" name="purchase">
+                <label for="brand">브랜드</label>
+                <input type="checkbox" id="as" name="purchase">
+                <label for="as">오랜기간의 A/S</label>
+                <input type="checkbox" id="quality" name="purchase">
+                <label for="quality">품질</label>
+
+            </fieldset>
+            <fieldset>
+                <legend>기타 의견</legend>
+                <!-- textarea에서 rows가 클수록 세로로 증가하고, cols가 클수록 가로로 증가한다.  -->
+                <textarea rows="3" cols="30" name="comment"></textarea>
+            </fieldset>
+            <input type="submit">
+        </form>
+    </main>
+    <hr>
+    <footer>
+        <p>스마트폰 웹 어플리케이션 호환성 개선을 위해 필요한 설문조사를 작성해주셔서 감사합니다.</p>
+    </footer>
+</body>
+</html>
