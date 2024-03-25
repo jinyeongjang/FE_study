@@ -1,0 +1,50 @@
+<!-- css check list:
+- 기본 선택자 [모두 적용 ⇒ * / class ⇒ . / id ⇒ #]
+- 박스모델
+- 테두리 스타일 [border]
+- 여백 다루기 [margin, padding]
+- 배경 다루기 [background]
+- 다양한 색상 지정해보기 [color]
+- 텍스트 꾸미기 [font]
+-->
+
+<!-- remind check list:
+        HTML 기본 문법 [태그, 주석 등]
+        HTML 문서 기본 구조 [<head>, <body>]
+        텍스트 표시하기 [<h1> ~ <h6>, <p>, <br>, <hr>, &nbsp;]
+        요소의 구분과 인라인 텍스트 요소 [<mark>, <strong>, <em>]
+        컨테이너와 전역 속성 [<div>, <span>]
+        이미지 표시하기 [<img>], 이미지 경로] -->
+        
+<!-- 문서의 기본구조 -->
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>진영의 프로필</title>
+        <link href="profile.css" rel="stylesheet">
+    </head>
+    <body>
+        <!-- 웹 접근성 향상 -->
+    <h1 title="jinyeong jang">Who's be a Frontend Developer?</h1>
+    <img src="images/jinyeong_profile.jpg"
+    alt="Who's be a Frontend Developer?"
+    >
+    <div id="introduce">
+        <p>안녕하세요 <strong>프론트엔드 개발자를 꿈꾸고 있는 진영</strong>입니다.</p>
+        <p>방문해주셔서 감사합니다. 좋은 하루 되세요.</p>
+    </div>
+    <hr>
+    <div id="spec">
+        <h2>who's jinyeong?</h2>
+        <p>
+        1. MBTI : ENFJ - 정의로운 사회운동가.<br>
+        2. 교회에서 현재 <mark>찬양팀에서 싱어(노래부르는사람)</mark>를 하고 있습니다.<br>
+        3. 집중하거나 몰두하는것을 좋아합니다.<br>
+        4. <em>한번 결과는 끝까지 내는 스타일입니다.</em>
+        </p>
+    </div>
+    <hr>
+    <span>&copy; 장진영</span>
+    </body>
+</html>

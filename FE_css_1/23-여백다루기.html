@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>여백 다루기</title>
+    <style>
+        /* div는 블록레벨 콘텐츠크기 설정시 나머지 공간은 여백으로 자리를 차지하게 됨. */
+        div{
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+
+            margin: 10px 20px 30px 40px;
+            /* 패딩을 각각 따로 주고 싶을 때 접미사 padding-top 
+            top bottom left right
+            */
+            padding-top: 20px;
+            padding-right: 50px;
+
+            box-sizing: content-box;
+        }
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>

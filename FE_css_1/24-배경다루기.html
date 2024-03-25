@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>배경을 깔아보자</title>
+    <style>
+        div{
+            width: 300px;
+            height: 300px;
+            padding: 20px;
+            border: 20px double green;
+
+            /* box 모델은 바깥쪽 여백을 제외한 요소내 세가지 영역에 표시가 되기 위해 사용하는 것. */
+            /* background-color: yellowgreen; */
+            /* border-box: 경계선 까지 범위 차지.
+            padding-box: 가장 안쪽에 있는 콘텐츠 영역에서부터 padding까지 범위를 사용.*/
+            /* clip은 범위를 정함.
+            content-box: 콘텐츠 영역에서만 배경을 표시할때
+            */
+            background-clip: border-box;
+            /* css에서 이미지 url 지정할 때 background-image: url(); */
+            background-image: url(images/busan.png);
+            /* background-size 영역 지정시, 영역이 남게 되면, 자동으로 바둑판식 배열로 그림을 꽉 채워서 보여준다. 바둑판식 배열을 원치않는다면 background-repeat: no-repeat로 작성한다. */
+            background-size: 200px 200px;
+            background-repeat: no-repeat;
+            /* 어디서부터 시작할 지. */
+
+            background-origin: content-box;
+            /* position은 위치 지정이 가능 */
+            background-position: left center;
+            /* 세로축, 가로축 세부적으로 이동할 때 x, y축으로 지정가능
+            background-position: 100px 50px  */
+            /* 요소를 만들 때 html 기본 왼쪽상단에서 채워지므로, x축 커질수록 오른쪽으로, y축 커질수록 아래쪽으로 이동.  */
+        }
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>

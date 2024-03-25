@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>선택자 기본편</title>
+    <style>
+        /* 스타일 속성은 하나의 요소에 대해 겹칠 수 있다. 기본적으로 나중에 쓰여진게 우선적으로 적용된다. */
+        *{
+            color: red;
+        }
+        /* 선택자 우선순위: 쓰여진 순서랑 관계없이 적용되는 순위 
+        1. 아이디 선택자, 2. 클래스 선택자, 3. 태그 선택자 
+        기본적으로는 스타일 선언문이 나중에 쓰여질 수록 우선 적용되는 것이 맞으나, 아이디 선택자와 클래스 선택자, 태그 선택자 간에는 순서와 상관없이 적용 우선순위가 존재한다.*/
+        li{
+            color: blue;
+        }
+        /* 해석하는 브라우저 입장에서는 태그인지, 클래스인지 구분하기가 어렵다. class 앞에는 반드시 .을 찍어줘야 한다. */
+        .hiphop{
+        /* li.hiphop - li태그에 class가 hiphop인 경우 */
+            color: purple;
+        }
+        /* id 선택자 */
+        #belly{
+        /* li.belly - li태그에 id가 belly인 경우 */
+            color: orange;
+        }
+        /* 그룹 선택자 - 쉼표로 구분
+        h2, p, li 를 한번에 선택하겠다. 
+        {    
+        color: yellow;
+        } */
+    </style>
+</head>
+<body>
+    <h2>춤의 장르</h2>
+    <p>무척 다양한 장르가 존재합니다</p>
+    <ul>
+        <li class="hiphop">비보잉</li>
+        <li class="hiphop" id="poppin">팝핀</li>
+        <li class="hiphop">락킹</li>
+        <li id="belly">밸리</li>
+        <li id="jazz">재즈</li>
+    </ul>
+</body>
+</html>
