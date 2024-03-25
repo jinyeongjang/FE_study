@@ -1,14 +1,10 @@
 *{
-    text-align: center;
-    .nanum-gothic coding-regular {
-        font-family: "Nanum Gothic Coding", monospace;
-        font-weight: 400;
-        font-style: normal;
-    }
-}
+    text-align: left;
+      }
+
 
 html{
-    background-color: #eeecec;
+    background-color: #e2e8ef;
     font-size: 16px;
 }
 
@@ -19,7 +15,7 @@ body{
 }
 
 h1{
-    font-size: 48px;
+    font-size: 32px;
 }
 
 img{
@@ -29,6 +25,6 @@ img{
 }
 
 p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     /* html 기본사이즈인 16px보다 1.5배를 하겠다. = 24px가 되는것을 확인할 수 있다. */
 }
