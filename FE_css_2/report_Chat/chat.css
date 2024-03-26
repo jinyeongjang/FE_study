@@ -17,10 +17,9 @@ body{
     background-color: #b99837;
 
 }
-
 /* 스크린 크기 조정 */
 .chat-screen{
-    /* calc: css 수치끼리 계산해서 그 결과를 속성값으로 사용한다. 100%값에서 120px를 제외한 값 */
+    /* calc [중요] : css 수치끼리 계산해서 그 결과를 속성값으로 사용한다. 100%값에서 120px를 제외한 값 */
     height: calc(100% - 120px);
     background-color: #7a7461;
     border-radius: 10px 10px 0px 0px;
@@ -79,6 +78,7 @@ body{
     
 }
 
+
 .chat_form__bt{
     width: 120px;
     height: 120px;
@@ -96,11 +96,13 @@ body{
     border-radius: 10px 10px 10px 10px;
 }
 
+
 .chat_form__msg:hover {
     color: rgb(0, 0, 0);
     background-color: rgb(226, 235, 243);
 
 }
+
 
 .chat_form__bt:active{
     color: white;
