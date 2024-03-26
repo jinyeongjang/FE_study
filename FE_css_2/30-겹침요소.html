@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>겹치거나 넘치는 요소</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            position: relative;
+        }
+        /* z-index 적용할 때 값이 높을수록 위쪽에 보이게 된다. */
+        /* 포지션 지정 요소들끼리 z순서 (쌓인)정함. 포지션 지정아닌 요소에 대해서는 사용하는 것이 아니다. */
+        .div1{
+            background-color: orange;
+            z-index:99;
+            overflow: auto;
+        }
+        .div2{background-color: red; bottom: 50px; z-index:3 }
+        .div3{background-color: purple; bottom: 100px; z-index:2 }
+        .div4{background-color: green; bottom: 150px; z-index:1 }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        orangeorangeorangeorange
+        orangeorangeorangeorange
+        orangeorangeorangeorange
+        orangeorangeorangeorange
+        orangeorangeorangeorange
+        orangeorangeorangeorange
+    </div>
+    <div class="div2">2</div>
+    <div class="div3">3</div>
+    <div class="div4">4</div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>문서의 흐름</title>
+    <style>
+        .container{
+            height: 400px;
+            border: 1px solid black;
+        }
+
+        #first{
+            float: right;
+        }
+        #second{
+            float: left;
+        }
+        p{
+            /* float을 대응하기 위한 속성 */
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img id="first"
+        src="../FE_css_1/images/busan.png" width="160">
+        <img id="second"
+        src="../FE_css_1/images/busan.png" width="160">
+
+    <p>부산은 아름다운 관광도시이며, 해양수도라고 불리운다.
+        대한민국 역사에서, 부산을 시작으로, 경제가 발전되었다.
+    </p>
+</div>
+    
+</body>
+</html>

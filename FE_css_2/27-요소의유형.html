@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>요소의 유형</title>
+    <style>
+        p{
+            /* 인라인에서는 안되나, inline-block에서는 요소의 공간 차지는 인라인 처럼 되고(필요한 만큼 차지), width, height 특성 적용 가능. 블록레벨 요소를 사용하여 옆으로 늘어지는 레이아웃을 적용할 때 인라인 블록을 사용하므로 참고하기. */
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+        }
+        span{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <p>경제</p>
+    <p>정치</p>
+    <p>과학</p>
+    <p>생활</p>
+    <span>음식</span>
+
+    
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>선택자 더 알아보기</title>
+    <style>
+        /* 
+        기호와 함께 사용하는 속성 선택자
+        *: 값의 포함 여부
+        ^: 값의 시작 여부
+        $: 값의 끝 여부 
+        */
+
+        /* 속성선택자는 [속성명]을 써줘야함. */
+        [width $= "0"]{
+            border: 5px dashed red;
+        }
+
+        p > em{
+            color: blue;
+        /* 하위요소도 선택 가능.
+        body em{ */
+
+        /* 자식요소 선택. */
+
+        /* p em{ 
+        p밑에 있는 em 아무거나 상관없음.*/
+        
+        /* p > em{
+        p밑에 있는 em 중 한단계 밑에만 선택. */
+        }
+
+        /* 형제 선택자는 뒤이어 등장하는 형제들을 대상으로 한다. */
+        #sam ~ img{
+            display: none;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- 속성을 추가할 때 alt를 추가해준다. -->
+    <img src="../FE_css_1/images/busan.png" width="120" alt="부산">
+    <img src="../FE_css_1/images/busan.png" width="120">
+    <img src="../FE_css_1/images/busan.png" width="120" id="sam">
+    <p>부산은 아름다운 도시이며 <em>해양수도</em>라고 불리웁니다.</p>
+    <p>부산은 광안대교가 있습니다.</p>
+    <p>해상을 품은 도시 부산을 만나보세요</p>
+
+</body>
+</html>

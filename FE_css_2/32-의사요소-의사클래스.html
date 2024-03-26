@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>의사 클래스 & 의사 요소</title>
+    <style>
+        .menu{
+            padding: 10px;
+            border-bottom: 1px solid black;
+        }
+
+        .menu > li{
+            display: inline-block;
+            text-align: center;
+
+        }
+
+        li > a{
+            display: inline-block;
+            width: 80px;
+            padding: 10px;
+            text-decoration: none;
+        }
+        /* 마우스 커서를 가져다댈때 */
+        a:hover{
+            color: white;
+            background-color: gray;
+
+        }
+        /* 마우스를 클릭할 때 */
+        a:active{
+            color: white;
+            background-color: black;
+        }
+
+        li:nth-child(n){
+            font-size: 20px;
+        }
+
+        a::before{
+            content: "보기";
+            color: yellow;
+        }
+
+    </style>
+</head>
+<body>
+    <ul class="menu">
+        <li><a href="#">사전</a><li>
+        <li><a href="#">뉴스</a><li>
+        <li><a href="#">증권</a><li>
+        <li><a href="#">지도</a><li>
+    </ul>
+</body>
+</html>
