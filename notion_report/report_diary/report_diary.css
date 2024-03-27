@@ -8,8 +8,8 @@
     justify-content: center;
 }
 .container{
-    border: 8px solid rgb(176, 216, 112);
-    background-color: rgb(212, 235, 170);
+    border: 8px solid rgb(169, 182, 149);
+    background-color: rgb(234, 231, 221);
     border-style:groove;
     padding-top: 50px;
     margin-top: 100px;
@@ -23,69 +23,62 @@
     align-items: center;
 }
 .headline{
-    border: 9px double darkseagreen;
+    border: 9px double rgb(162, 185, 162);
     width: 800px;
     height: 90px;
     font-size: 50px; color: rgb(37, 119, 51);
     text-align: center;
-    background-color: rgb(175, 211, 175);
+    background-color: rgb(203, 221, 225);
     margin-bottom: 40px;
 }
 .date{
-    border: 9px double darkseagreen;
     padding-right: 20px;
     margin-bottom: 25px;
     text-align: right;
     font-size: 20px; color: rgb(18, 112, 68);
+    border-radius: 10px;
     word-spacing: 20px;
 }
 .content_photo{
-    border: 9px double darkseagreen;
+    border: 10px double rgb(128, 148, 132);
     width: 600px;
     height: 400px;
     text-align: center;
     padding-top: 30px;
     margin-bottom: 50px;
+    border-radius: 10px;
     font-size: 25px; color: rgb(18, 112, 68);
 }
 .content_text{
-    border: 9px double darkseagreen;
+    border: 9px double rgb(184, 175, 162);
     width: 600px;
     height: 400px;
-    text-align: center;
-    padding-top: 50px;
+    text-align: left;
+    padding-top: 90px;
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 50px;
     margin-bottom: 20px;
     font-size: 20px; color: rgb(18, 112, 68);
+    border-radius: 10px;
     line-height: 200%;
 }
-#mean{
+#bottom_title{
     text-align: center;
 }
-#ye{
+#samil{
     color: deeppink;
 }
-.gea{
-    color: red;
+
+#yangsan{
+    color:rgb(23, 63, 93);
 }
-#ice{
-    color: brown;
-    font-weight: bold;
-    font-size: 30px;
+
+#place{
+    color:rgb(21, 168, 46);
 }
-.pro{
-    color: darkblue;
-    font-size: 30px;
-}
-.monkey{
-    text-align: center;
-    font-size: 50px;
-}
-.must{
-    color: skyblue;
-}
-#mean{
-    font-size: 30px;
+
+#vanila{
+    font-size: 20px;
+    color:rgb(70, 161, 218);
 }
