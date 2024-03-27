@@ -1,0 +1,87 @@
+.chat-screen__receive_texts{
+    padding: 0;
+    /* 목록 태그에 리스트 스타일 속성을 넣게 되면 문단 기호가 사라진다. */
+    list-style-type: none;
+    
+}
+
+.chat-screen__receive_texts > .text{
+    background-color: #f3f4ec;
+    width: 280px;
+    height: 50px;
+    /* li요소가 붙어 있으므로 마진을 줘서 살짝 간격을 준다. */
+    margin: 0 0 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    /* 행 높이 line-height, 말풍선 높이가 50, 패딩이 10, 위아래 각각 10이므로, 30픽셀이 남음. 행높이를 30으로 맞춰줌으로써 패딩 외 남는공간만큼의 크기를 텍스트가 가져가게 된다. 텍스트가 가운데로 위치하고 있는 것을 확인할 수 있다. */
+    line-height: 30px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+
+}
+    /* ::after는 의사요소로써, 콘텐츠가 별도로 하나 추가 되게 하기 위함.  */
+.chat-screen__receive_texts > .text::after{
+    content: "";
+    border-right: 16px solid #f3f4ec;
+    /* transparent - 투명도 설정. */
+    border-bottom: 16px solid transparent;
+    position: absolute;
+    top: 10px;
+    left: -10px;
+}
+
+.chat-screen__receive_texts > .text:hover{
+    background-color: #d5edec;
+    transition: background-color 1500ms 1ms ease-in;
+}
+
+/* 마우스가 언져진 말풍선의 의사요소 */
+.chat-screen__receive_texts > .text:hover::after{
+    border-right: 16px solid #d5edec;
+    transition: border-right 1500ms 1ms ease-in;
+}
+
+.chat-screen__send_texts{
+    padding: 0;
+    /* 목록 태그에 리스트 스타일 속성을 넣게 되면 문단 기호가 사라진다. */
+    list-style-type: none;
+    
+}
+
+.chat-screen__send_texts > .text{
+    background-color: #dbeb27;
+    width: 280px;
+    height: 50px;
+    /* li요소가 붙어 있으므로 마진을 줘서 살짝 간격을 준다. */
+    margin: 0 0 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    /* 행 높이 line-height, 말풍선 높이가 50, 패딩이 10, 위아래 각각 10이므로, 30픽셀이 남음. 행높이를 30으로 맞춰줌으로써 패딩 외 남는공간만큼의 크기를 텍스트가 가져가게 된다. 텍스트가 가운데로 위치하고 있는 것을 확인할 수 있다. */
+    line-height: 30px;
+    position: relative;
+    left: 180px;
+    top: 70px;
+
+}
+    /* ::after는 의사요소로써, 콘텐츠가 별도로 하나 추가 되게 하기 위함.  */
+.chat-screen__send_texts > .text::after{
+    content: "";
+    border-right: 16px solid #dbeb27;
+    /* transparent - 투명도 설정. */
+    border-bottom: 16px solid transparent;
+    position: absolute;
+    top: 10px;
+    left: -10px;
+}
+
+.chat-screen__send_texts > .text:hover{
+    background-color: #d5edec;
+    transition: background-color 1500ms 1ms ease-in;
+}
+
+/* 마우스가 언져진 말풍선의 의사요소 */
+.chat-screen__send_texts > .text:hover::after{
+    border-right: 16px solid #d5edec;
+    transition: border-right 1500ms 1ms ease-in;
+}

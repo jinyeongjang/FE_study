@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OZ초격차 회원가입</title>
+    <link rel="stylesheet" href="report_redesign_signup.css">
+</head>
+<body>
+    <div class="main">
+        <div class="contents">
+            <h1 class="head">OZ초격차 회원가입</h1>
+            <div>
+                <input id="user_email" class="user_email data" type="email" placeholder="이메일을 입력하세요." required>
+            </div>
+            <div>
+                <input id="user_id" class="user_id data " type="text" placeholder="이름을 입력하세요." required>
+            </div>
+            <div>
+                <input id= "user_pw1" class="user_pw data" type="password" placeholder="비밀번호를 입력하세요." required>
+            </div>
+            <div>
+                <input id="user_pw2" class="user_pw data" type="password" placeholder="비밀번호를 다시 입력하세요." required>
+            </div>
+            <div class="phone">
+                <input id="phone1" class="phone1 data" type="text" maxlength="3" placeholder="010" required><span class="dash">-</span>
+                <input id="phone2" class="phone2 data" type="text" maxlength="4" placeholder="1234" required><span class="dash">-</span>
+                <input id="phone3" class="phone3 data" type="text" maxlength="4" placeholder="5678" required>
+            </div>
+            <div class="auth">
+                <span id="certificationNumber">000000</span>
+                <button  id="sendMessage">인증번호 전송</button>
+            </div>   
+            <div class="time">
+                <span id="timeLimit">3:00</span>
+                <!-- disabled 속성은 버튼을 비활성화하여 클릭할 수 없음 -->
+                <button disabled id="completion" >인증 완료</button>
+            </div>    
+            <div class="city">
+                <select id="city">
+                    <option disabled selected>- 지역을 선택하세요 -</option><!-- 초기에 선택되어 있지만 사용자가 선택할 수 없는 옵션. 보통 플레이스홀더로 사용됩니다. -->
+                    <option>서울</option>
+                    <option>경기</option>
+                    <option>대전</option>
+                    <option>경남</option>
+                    <option>강원</option>
+                    <option>충청</option>
+                    <option>제주</option>
+                </select>
+            </div>
+            <div class="gender">
+                <input id="gender_female" type="radio" name="gender" value="female"   />여성
+                <input id="gender_male" type="radio" name="gender" value="male"   />남성
+            </div>
+            <div>
+                <button class="sign">가입하기</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

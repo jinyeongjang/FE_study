@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>미디어쿼리</title>
+    <style>
+        div.box{
+            width: 150px;
+            height: 150px;
+            background-color: teal;
+        }
+        /* 화면 크기가 800 크기 이상일 때 스타일을 선언하겠다. 미디어쿼리는 추가 가능. */
+        /* 예시) 미디어쿼리를 사용하여 창크기가 800 이상이면 오렌지색상, 1000이상이면 빨간색 색상을 지정해주었다. */
+        @media screen and (min-width: 800px){
+            div.box{
+                background-color: orange;
+            }
+        }
+
+        @media screen and (min-width: 1000px){
+            div.box{
+                background-color: red;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+</body>
+</html>

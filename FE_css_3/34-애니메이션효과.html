@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>애니메이션 효과</title>
+    <style>
+        .eyes{
+            width: 480px;
+            margin: auto;
+        }
+        .eye{
+            width: 200px;
+            height: 200px;
+            border: 5px solid black;
+            border-radius: 100px;
+            position: relative;
+        }
+        .eye:nth-child(1) { float: left; }
+        .eye:nth-child(2) { float: right; }
+
+        .ball{
+            width: 50px;
+            height: 50px;
+            background-color: black;
+            border-radius: 25px;
+            position: absolute;
+            top: 80px;
+            left: 30px;
+
+            animation-name: moving;
+            animation-duration: 2s;
+            animation-delay: 0s;
+            /* 동일한 속도 유지하도록 linear 사용. */
+            animation-timing-function: linear;
+            /* 지정 숫자 만큼 반복 후 종료. 무한으로 반복하고 싶다면 infinite 로 값 부여. */
+            animation-iteration-count: infinite;
+            /* 정방향, 역방향을 왔다갔다 반복하려면 alternate를 사용한다.
+            역방향을 하려면 reverse 사용. */
+            animation-direction: alternate;
+            /* 애니메이션을 멈추게 하고 싶을 때 paused, 동작하고 싶을 때 running */
+            /* animation-play-state: paused; */
+        }
+        /* 단축어로 애니메이션 속성을 사용할 때, 하위속성값을 공백으로 구분하여 넣어도 된다. */
+        /* 시간은 앞에부분이 duration, 뒷부분이 delay 속성이다. 그 외 순서는 바뀌어도 된다. */
+        /* animation: moving 2s 0s linear infinite alternate; */
+
+
+        .ball:hover{
+            /* 가져다 대면 애니메이션이 멈추게 된다. */
+            animation-play-state:paused;
+        }
+
+        @keyframes moving {
+            from{ left: 30px; }
+            to{ left: 120px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="eyes">
+        <div class="eye">
+            <div class="ball"></div>
+        </div>
+        <div class="eye">
+            <div class="ball"></div>
+        </div>
+    </div>
+</body>
+</html>

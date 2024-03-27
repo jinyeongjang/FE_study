@@ -65,7 +65,7 @@ body{
     height: 120px;
 }
 
-.chat_form__msg{
+.chat-form__msg{
     float: left;
     width: calc(100% - 120px);
     height: 120px;
@@ -79,7 +79,7 @@ body{
     
 }
 
-.chat_form__bt{
+.chat-form__bt{
     width: 120px;
     height: 120px;
     border-radius: 10px;
@@ -87,21 +87,21 @@ body{
     float: right;
     font-size: 18px;
 }
-.chat_form__bt:hover {
+.chat-form__bt:hover {
     background-color: rgb(188, 199, 209);
 }
 
-.chat_form__msg:focus{
+.chat-form__msg:focus{
     outline: none;
     border-radius: 10px 10px 10px 10px;
 }
 
-.chat_form__msg:hover {
+.chat-form__msg:hover {
     color: rgb(0, 0, 0);
     background-color: rgb(226, 235, 243);
 
 }
-.chat_form__bt:active{
+.chat-form__bt:active{
     color: white;
     background-color: #C89D12;
 }

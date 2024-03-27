@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>상속과 공용키워드</title>
+    <style>
+        .list{
+
+            /* 상속 되는 애 */
+            color: brown;
+            font-style: italic;
+            font-weight: 900;
+
+            /* 상속 안 되는 애 */
+            border: 3px dashed green;
+            padding: 0;
+
+        }
+        /* 공용키워드: 모든 스타일 속성에서 inherit, initial 모두 줄 수 있다. */
+        ul{
+            /* 강제로 상속받기 위해 inherit 를 사용. */
+            border: inherit;
+
+        }
+        li:nth-child(3){
+            /* 상속을 받는다하더라도, 브라우저에서 제공하는 기본값을 주고 싶을 때 initial 사용. */
+            /*  unset: 상속받을 것이 있으면 받고, 없으면 안받는다. */
+            color: unset;
+            font-style: initial;
+            font-weight: initial;
+        }
+    </style>
+</head>
+<body>
+    <h2>마라톤 대회 참가 기록</h2>
+    <div class="list">
+        <ul>
+            <li>새해맞이 대전 마라톤 대회</li>
+            <li>서울 국제 마라톤 대회</li>
+            <li>대전 대청호 벚꽃길 마라톤 대회</li>
+            <li>대전 3대하천 마라톤 대회</li>
+        </ul>
+    </div>
+</body>
+</html>

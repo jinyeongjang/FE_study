@@ -1,0 +1,135 @@
+/* 모든 요소의 박스 모델이 border를 기준으로 계산되도록 설정 */
+*{      
+    box-sizing: border-box;
+}
+body{
+    margin-top: 100px;
+    width: 100vw;   /* 바디의 너비를 뷰포트 너비의 100%로 설정 */
+    display: flex;  /* flexbox 레이아웃 시작 */
+    justify-content: center;    /* 가로 방향에서 중앙 정렬 */
+}
+.data{ 
+    width: 300px;
+    border: 2px solid #4F6F52;
+    height: 40px;
+    border-radius: 3px;
+    line-height: 35px;  /* 텍스트의 라인 높이를 35px로 설정 */
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.contents{
+    width: 350px;
+    display: flex; 
+    flex-direction: column; /* 요소들을 세로 방향으로 배치 */
+    justify-content: center;
+    align-items: center;    /* 교차 축(여기서는 가로 축)에서 중앙 정렬 */
+    margin-left: 15px;
+    border-radius: 15px;
+}
+.main{
+    border-style:none;
+    border-radius: 15px;
+    box-shadow: #A6CF98 8px 8px, #F3B664 12px 12px,#557C55 15px 15px, #557C55 18px 18px, #FA7070 23px 23px;
+    background-color: #F2FFE9;
+    width: 400px;
+    height: 700px;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.phone{
+    display: flex;
+    width: 300px;
+    justify-content:space-between; 
+}
+.phone1{
+    text-align: center;
+    width: 60px;
+    margin-right: 10px;
+}
+.phone2{
+    text-align: center;
+    width: 80px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.phone3{
+    text-align: center;
+    width: 80px;
+    margin-left: 15px;
+}
+.dash{
+    margin-top: 10px;
+}
+.auth{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 160px;
+}
+#sendMessage{
+    border: 2px solid  #4F6F52;
+    border-radius: 3px;
+}
+/* #sendMessage 아이디가 적용된 요소에 마우스를 올렸을 때의 스타일을 설정 */
+#sendMessage:hover{
+    background-color:  #4F6F52;
+    color: white;
+    cursor: pointer;
+}
+#certificationNumber{
+    margin-right: 5px;
+}
+.time{
+    width: 125px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 180px;
+    display: flex; 
+    flex-direction: row;
+}
+#timeLimit{
+    margin-right: 5px;
+}
+#completion{
+    border: 2px solid  #4F6F52;
+    border-radius: 3px;    
+    width: 150px;
+    cursor: pointer;
+}
+#completion:hover {
+    background-color: #4F6F52;
+    color: white;
+}
+/* city 클래스 내부의 select 요소에 대한 스타일을 설정 */
+.city select {
+    width: 305px;
+    height: 40px;
+    line-height: 35px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 2px solid   #4F6F52;
+    border-radius: 3px;
+    text-align: center
+}
+.gender{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sign{
+    width: 305px;
+    height: 40px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 2px solid  #4F6F52;
+    border-radius: 3px;
+}
+.sign:hover {
+    background-color: #4F6F52;
+    color: white;
+}
