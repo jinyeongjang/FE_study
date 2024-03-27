@@ -80,7 +80,7 @@
     transition: background-color 1500ms 1ms ease-in;
 }
 
-/* 마우스가 언져진 말풍선의 의사요소 */
+/* 마우스 커서를 위에 놓은 말풍선의 의사요소 */
 .chat-screen__send_texts > .text:hover::after{
     border-right: 16px solid #d5edec;
     transition: border-right 1500ms 1ms ease-in;
