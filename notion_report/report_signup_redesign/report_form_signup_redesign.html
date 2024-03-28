@@ -1,23 +1,22 @@
 <!-- remind check list:
-    <img> 태그를 활용해보기
-    input type 활용해 보기
-    class 나 id 선택자를 이용하여 text 스타일 해보기
-    요소들을 가운데 정렬과 수직정렬 해보기
+    [완료] <img> 태그를 활용해보기
+    [완료] input type 활용해 보기
+    [완료] class 나 id 선택자를 이용하여 text 스타일 해보기
+    [완료] 요소들을 가운데 정렬과 수직정렬 해보기
 -->
 
 <!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OZ초격차 회원가입</title>
-    <link rel="stylesheet" href="report_form_redesign_signup.css">
+    <title>회원가입</title>
+    <link rel="stylesheet" href="report_form_signup_redesign.css">
 </head>
 <body>
     <div class="main">
         <div class="contents">
-            <h1 class="head">OZ초격차 회원가입</h1>
+            <h1 class="head">[과제] 회원가입 하기</h1>
             <div>
                 <input id="user_email" class="user_email data" type="email" placeholder="이메일을 입력하세요." required>
             </div>
@@ -41,13 +40,14 @@
             </div>   
             <div class="time">
                 <span id="timeLimit">3:00</span>
-                <!-- disabled 속성은 버튼을 비활성화하여 클릭할 수 없음 -->
+                <!-- disabled 속성은 버튼을 비활성화하여 클릭할 수 없다. -->
                 <button disabled id="completion" >인증 완료</button>
             </div>    
             <div class="city">
                 <select id="city">
-                    <option disabled selected>- 지역을 선택하세요 -</option><!-- 초기에 선택되어 있지만 사용자가 선택할 수 없는 옵션. 보통 플레이스홀더로 사용됩니다. -->
+                    <option disabled selected>- 지역을 선택하세요 -</option><!-- 초기에 선택되어 있지만 사용자가 선택할 수 없는 옵션. 보통 플레이스홀더로 사용한다. -->
                     <option>서울</option>
+                    <option>부산</option>
                     <option>경기</option>
                     <option>대전</option>
                     <option>경남</option>

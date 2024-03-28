@@ -2,6 +2,7 @@
 *{      
     box-sizing: border-box;
 }
+
 body{
     margin-top: 100px;
     width: 100vw;   /* 바디의 너비를 뷰포트 너비의 100%로 설정 */
@@ -28,9 +29,10 @@ body{
 }
 .main{
     border-style:none;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
-    box-shadow: #A6CF98 8px 8px, #F3B664 12px 12px,#557C55 15px 15px, #557C55 18px 18px, #FA7070 23px 23px;
-    background-color: #F2FFE9;
+    box-shadow: #5790b3 50px;
+    background-color: #d1e5ee;
     width: 400px;
     height: 700px;
     font-size: 11px;
@@ -74,7 +76,7 @@ body{
 }
 /* #sendMessage 아이디가 적용된 요소에 마우스를 올렸을 때의 스타일을 설정 */
 #sendMessage:hover{
-    background-color:  #4F6F52;
+    background-color:  #5075dc;
     color: white;
     cursor: pointer;
 }
@@ -99,7 +101,7 @@ body{
     cursor: pointer;
 }
 #completion:hover {
-    background-color: #4F6F52;
+    background-color: #001349;
     color: white;
 }
 /* city 클래스 내부의 select 요소에 대한 스타일을 설정 */
@@ -130,6 +132,27 @@ body{
     border-radius: 3px;
 }
 .sign:hover {
-    background-color: #4F6F52;
+    background-color: #1e5882;
     color: white;
+}
+
+
+.user_email:hover {
+    background-color: #c9e2cc;
+    color: rgb(0, 0, 0);
+}
+
+.user_id:hover {
+    background-color: #c9e2cc;
+    color: rgb(0, 0, 0);
+}
+
+#user_pw1:hover {
+    background-color: #c9e2cc;
+    color: rgb(0, 0, 0);
+}
+
+#user_pw2:hover {
+    background-color: #c9e2cc;
+    color: rgb(0, 0, 0);
 }
