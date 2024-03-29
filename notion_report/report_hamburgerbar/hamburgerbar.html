@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="hamburgerbar.css">
+	<title>🍔</title>
+</head>
+<body>
+	<!-- 체크박스 추가 -->
+	<input type="checkbox" id="menu-toggle"> 
+	
+	<!-- 라벨과 for 속성 추가 -->
+	<label for="menu-toggle" class="hamburger-icon">&#9776;</label> 
+	
+	<!-- 메뉴 목록. 기본적으로는 항상 표시되지만, 작은 화면에서는 체크박스 상태에 따라 표시 여부가 결정 -->
+	<ul class="menu" id="menu">
+		<li><a href="#" class="active">홈</a></li>
+		<li><a href="#">소개</a></li>
+		<li><a href="#">서비스</a></li>
+		<li><a href="#">문의</a></li>
+	</ul>
+</body>
+</html>

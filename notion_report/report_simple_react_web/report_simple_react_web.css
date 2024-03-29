@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: rgb(179, 214, 214);
+    margin: 0;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    color:white;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    display: none;
+    font-size:  1.4em;
+}
+
+
+/* 브라우저 창의 너비가 1225px 이상 1800px이하일 때 적용되는 스타일 */
+@media (max-width: 1800px) and (min-width:1225px){
+    section{ 
+        background-color: brown;
+    }
+    .pc{ 
+        /* 클래스 이름이 'pc'인 모든 요소에 대해 display 속성을 부모 요소로부터 상속(inherit) */
+        display: inherit;
+        }
+}   
+@media (max-width: 1224px) and (min-width:1110px){
+    section{ 
+        background-color: skyblue;
+    }
+    .notebook{ 
+        display: inherit;
+        }
+} 
+@media (max-width: 1109px) and (min-width : 900px){
+    section{ 
+        background-color: rgb(72, 37, 105);
+    }
+    .pad{
+        display: inherit;
+    }
+}
+@media (max-width: 899px) and (min-width:601px){
+    section{ 
+        background-color: rgb(42, 165, 79);
+    }
+    .pad2{
+        display: inherit;
+    }
+}
+
+@media (max-width: 600px) {
+    section{
+        background-color: rgb(18, 54, 255);
+    }
+    .pad3{
+        display: inherit;
+    }
+}
