@@ -46,10 +46,12 @@
     padding: 0;
     /* 목록 태그에 리스트 스타일 속성을 넣게 되면 문단 기호가 사라진다. */
     list-style-type: none;
+
     
 }
 
 .chat-screen__send_texts > .text{
+    align-items: start;
     background-color: #dbeb27;
     width: 280px;
     height: 50px;
@@ -66,6 +68,7 @@
 }
     /* ::after는 의사요소로써, 콘텐츠가 별도로 하나 추가 되게 하기 위함.  */
 .chat-screen__send_texts > .text::after{
+    align-items: start;
     content: "";
     border-right: 16px solid #dbeb27;
     /* transparent - 투명도 설정. */
