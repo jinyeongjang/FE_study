@@ -6,8 +6,8 @@ OZ coding school - Frontend 3기.<br>
 
 |기간| |
 |:--|:---------------------|
-|2024.3.21.|miniProject: 프로필 페이지|
-|2024.3.22.|miniProject: 설문조사 양식 만들기|
+|2024.3.21.|[miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html)|
+|2024.3.22.|[miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html)|
 
 <br>
 
@@ -16,8 +16,8 @@ OZ coding school - Frontend 3기.<br>
 
 |기간| |
 |:--|:---------------------|
-|2024.3.21.|태그 더 사용해보기|
-|2024.3.22.|회원가입 폼 만들어보기|
+|2024.3.21.|[태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html)|
+|2024.3.22.|[회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html)|
 
 <br>
 
@@ -26,10 +26,10 @@ OZ coding school - Frontend 3기.<br>
 
 |기간| |
 |:--|:---------------------|
-|2024.3.23.|miniProject: 프로필 페이지에 스타일 시트 더하기|
-|2024.3.26.|miniProject: 나만의 채팅방 만들기|
-|2024.3.27.|miniProject: 채팅방에 말풍선 추가하기|
-|2024.3.29.|miniProject: 나만의 포도마켓 클론코딩 하기|
+|2024.3.23.|[miniProject: 프로필 페이지에 스타일 시트 더하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/01.%20profile_css)|
+|2024.3.26.|[miniProject: 나만의 채팅방 만들기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/02.%20chat)|
+|2024.3.27.|[miniProject: 채팅방에 말풍선 추가하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/03.%20chat_bubble)|
+|2024.3.29.|[miniProject: 나만의 포도마켓 클론코딩 하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/04.%20podomarket)|
 
 <br>
 
