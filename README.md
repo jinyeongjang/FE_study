@@ -1,8 +1,10 @@
 ## 프론트엔드 개발자가 되기위한 여정.
 OZ coding school - Frontend 3기.<br>
 
-| HTML |
-|:--:
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1711988338298?alt=media&token=8f026bbf-d2b4-439f-8ef1-b6f3d0027297)](https://github.com/msdio/stackticon)
+
+
+### HTML
 
 |기간| |
 |:--|:---------------------|
@@ -11,8 +13,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-| HTML 추가 스터디 |
-|:--:
+### HTML 추가 스터디
 
 |기간| |
 |:--|:---------------------|
@@ -21,8 +22,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-| CSS |
-|:--:
+### CSS
 
 |기간| |
 |:--|:---------------------|
@@ -33,8 +33,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-| CSS 추가 스터디 |
-|:--:
+### CSS 추가 스터디
 
 |기간| |
 |:--|:---------------------|
@@ -48,8 +47,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-| JAVASCRIPT |
-|:--:
+### JAVASCRIPT
 
 |기간| |
 |:--|:---------------------|
@@ -60,8 +58,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-| JAVASCRIPT 추가 스터디 |
-|:--:
+### JAVASCRIPT 추가 스터디
 
 |기간| |
 |:--|:---------------------|
