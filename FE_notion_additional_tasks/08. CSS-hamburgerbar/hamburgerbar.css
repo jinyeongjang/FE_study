@@ -2,8 +2,10 @@ ul {
     list-style-type: none;  /* 리스트의 기본 스타일을 제거 */
     margin: 0;
     padding: 0;
-    background-color: #333;
+    background-color: #76927b;
+    box-shadow: 5px 5px 10px 1px gray;
 }
+
 ul:after{
     content:'';
     display: block;
@@ -20,10 +22,15 @@ li a {
     text-decoration: none;   /* 밑줄 제거 */
 }
 li a:hover:not(.active) {
-    background-color: #111; /* 활성화되지 않은 링크에 마우스를 올리면 배경색을 더 어두운 회색으로 변경 */
+    /* 활성화되지 않은 링크에 마우스를 올리면 배경색을 더 어두운 회색으로 변경 */
+    background-color: #536a5a;
+    
+    box-shadow: 5px 5px 10px 1px gray;
+    
 }
 .active {
-    background-color: #4CAF50;
+    background-color: #4b8cd3;
+    
 }
 #menu-toggle, .hamburger-icon  {
     display: none;
