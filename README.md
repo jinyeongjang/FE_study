@@ -1,9 +1,6 @@
 ## 프론트엔드 개발자가 되기위한 여정.
 OZ coding school - Frontend 3기.<br>
 
-![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1711988338298?alt=media&token=8f026bbf-d2b4-439f-8ef1-b6f3d0027297)
-
-
 ### HTML
 
 |기간| |
