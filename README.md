@@ -9,6 +9,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.3.21.|miniProject: 프로필 페이지|
 |2024.3.22.|miniProject: 설문조사 양식 만들기|
 
+<br>
 
 | HTML 추가 스터디 |
 |:--:
@@ -18,6 +19,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.3.21.|태그 더 사용해보기|
 |2024.3.22.|회원가입 폼 만들어보기|
 
+<br>
 
 | CSS |
 |:--:
@@ -29,6 +31,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.3.27.|miniProject: 채팅방에 말풍선 추가하기|
 |2024.3.29.|miniProject: 나만의 포도마켓 클론코딩 하기|
 
+<br>
 
 | CSS 추가 스터디 |
 |:--:
@@ -43,6 +46,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.3.29.|반응형 웹 만들기|
 |2024.3.29.|햄버거바 만들기|
 
+<br>
 
 | JAVASCRIPT |
 |:--:
@@ -54,6 +58,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.4. 1.|자바스크립트: 나만의 사용자 정보 입력받기|
 |2024.4. 2.|자바스크립트: |
 
+<br>
 
 | JAVASCRIPT 추가 스터디 |
 |:--:
