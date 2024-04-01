@@ -25,16 +25,17 @@ div{
 /* 브라우저 창의 너비가 1225px 이상 1800px이하일 때 적용되는 스타일 */
 @media (max-width: 1800px) and (min-width:1225px){
     section{ 
-        background-color: brown;
+        background-color: rgb(196, 153, 123);
     }
     .pc{ 
         /* 클래스 이름이 'pc'인 모든 요소에 대해 display 속성을 부모 요소로부터 상속(inherit) */
         display: inherit;
+        
         }
 }   
 @media (max-width: 1224px) and (min-width:1110px){
     section{ 
-        background-color: skyblue;
+        background-color: rgb(178, 179, 155);
     }
     .notebook{ 
         display: inherit;
@@ -42,26 +43,26 @@ div{
 } 
 @media (max-width: 1109px) and (min-width : 900px){
     section{ 
-        background-color: rgb(72, 37, 105);
+        background-color: rgb(123, 188, 178);
     }
-    .pad{
+    .ipad{
         display: inherit;
     }
 }
 @media (max-width: 899px) and (min-width:601px){
     section{ 
-        background-color: rgb(42, 165, 79);
+        background-color: rgb(66, 103, 82);
     }
-    .pad2{
+    .tablet{
         display: inherit;
     }
 }
 
 @media (max-width: 600px) {
     section{
-        background-color: rgb(18, 54, 255);
+        background-color: rgb(56, 79, 127);
     }
-    .pad3{
+    .low{
         display: inherit;
     }
 }
