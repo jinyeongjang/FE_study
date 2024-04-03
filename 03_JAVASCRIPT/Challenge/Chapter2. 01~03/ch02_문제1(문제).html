@@ -17,20 +17,37 @@
   
   <script>  
     //.querySelectorAll를 이용해 클래스명 first와 second가 가지고 있는 모든 요소를 찾아 console.log로 출력해주세요
+    console.log("첫번째 문제: " + document.querySelectorAll("first, .second"))
+
 
     //.getElementsByClassName를 이용해 클래스명 third의 요소를 console.log로 출력해주세요
+    console.log("두번째 문제: " + document.getElementsByClassName("thrid"))
+
 
     // .getElementById를 이용해 id poetry의 요소를 가져와 title이라는 변수에 넣고 console.log로 출력해주세요
+    const title = document.getElementById("poetry")
+    console.log("세번째 문제: " + title)
+
     
     // title 변수 내 텍스트 콘테츠를 가져와 console.log로 출력해주세요
+    console.log("네번째 문제: " + title.textContent)
+
 
     // title 변수 내 html 코드를 가져와 console.log로 출력해주세요
+    console.log("다섯번째 문제: " + title.innerHTML)
+
 
     // title 변수 내 className 정보를 가져와 console.log로 출력해주세요
+    console.log("여섯번째 문제: " + title.className)
+
 
     // title 변수 내 style 정보를 과져와 console.log로 출력해주세요
+    console.log("일곱번째 문제: " + title.style)
+
 
     // title 변수내 title 정보를 가져와 console.log로 출력해주세요
+    console.log("여덟번째 문제: " + title.title)
+
 
     
   </script>
