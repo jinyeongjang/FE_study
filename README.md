@@ -50,10 +50,11 @@ OZ coding school - Frontend 3기.<br>
 
 |기간| |
 |:--|:---------------------|
-|2024.3.29.|[자바스크립트: 문법 공부 #1 ~ #5 챌린지 과제](https://github.com/jinyeongjang/FE_study/tree/main/03_JAVASCRIPT/JAVASCRIPT_miniProject/01.%20basic)|
-|2024.4. 1.|[자바스크립트: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JAVASCRIPT/JAVASCRIPT_miniProject/02.%20monster/monster.html)|
-|2024.4. 1.|[자바스크립트: 나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JAVASCRIPT/JAVASCRIPT_miniProject/03.%20user_form/user_form.html)|
-|2024.4. 2.|자바스크립트: |
+|2024.3.29.|[자바스크립트: 문법 공부 #Chapter1 : 1~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JAVASCRIPT/Challenge/Chapter1.%2001~05)|
+|2024.3.29.|[자바스크립트: 문법 공부 #Chapter1 : 6~10 Challenge](https://github.com/jinyeongjang/FE_study/blob/main/03_JAVASCRIPT/Challenge/Chapter1.%2006~10/user_form.html)|
+|2024.4. 1.|[자바스크립트: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JAVASCRIPT/JAVASCRIPT_miniProject/01.%20monster/monster.html)|
+|2024.4. 1.|[자바스크립트: 나만의 사용자 정보 입력받기(HTML+CSS+JS)](https://github.com/jinyeongjang/FE_study/blob/main/03_JAVASCRIPT/JAVASCRIPT_miniProject/02.%20join_form/join.html)|
+|2024.4. 2.|[자바스크립트: 문법 공부 #Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JAVASCRIPT/Challenge/Chapter2.%2001~03)|
 
 <br>
 
@@ -62,6 +63,10 @@ OZ coding school - Frontend 3기.<br>
 |기간| |
 |:--|:---------------------|
 |2024.4.2.|자바스크립트 추가 스터디
+
+
+<br>
+
 
 ### 모던 자바스크립트 Deep Dive 스터디
 
