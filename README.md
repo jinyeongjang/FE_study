@@ -6,7 +6,7 @@ OZ coding school - Frontend 3기.
 ### HTML
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 3. 21.|[miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html)|
 |2024. 3. 22.|[miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html)|
 
@@ -15,7 +15,7 @@ OZ coding school - Frontend 3기.
 ### HTML 추가 스터디
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 3. 21.|[태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html)|
 |2024. 3. 22.|[회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html)|
 
@@ -24,7 +24,7 @@ OZ coding school - Frontend 3기.
 ### CSS
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 3. 23.|[miniProject: 프로필 페이지에 스타일 시트 더하기](https://github.com/jinyeongjang/FE_study/blob/main/02_CSS/CSS_miniProject/01.%20profile_css/profile_css.html)|
 |2024. 3. 26.|[miniProject: 나만의 채팅방 만들기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/02.%20chat)|
 |2024. 3. 27.|[miniProject: 채팅방에 말풍선 추가하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/03.%20chat_bubble)|
@@ -35,7 +35,7 @@ OZ coding school - Frontend 3기.
 ### CSS 추가 스터디
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 3. 23.|[나만의 일기장 만들어보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/03.%20CSS-diary)|
 |2024. 3. 24.|[배경화면과 박스 디자인 해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/04.%20CSS-background_box/background_box.html)|
 |2024. 3. 25.|[회원가입 폼 꾸미기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/05.%20CSS-form_signup_redesign)|
@@ -49,7 +49,7 @@ OZ coding school - Frontend 3기.
 ### JavaScript
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 3. 29.|[Chapter1 : 1~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter1.%2001~05)|
 |2024. 3. 29.|[Chapter1 : 6~10 Challenge](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/Challenge/Chapter1.%2006~10/user_form.html)|
 |2024. 4. 1.|[miniProject: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/01.%20monster/monster.html)|
@@ -63,7 +63,7 @@ OZ coding school - Frontend 3기.
 ### JavaScript 추가 스터디
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 4. 2.|자바스크립트 추가 스터디
 
 
@@ -73,5 +73,5 @@ OZ coding school - Frontend 3기.
 ### 모던 자바스크립트 Deep Dive 스터디
 
 |기간| |
-|:--|:---------------------|
+|:---|:---|
 |2024. 4. 5.|01.
