@@ -46,7 +46,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-### JAVASCRIPT
+### JavaScript
 
 |기간| |
 |:--|:---------------------|
@@ -59,7 +59,7 @@ OZ coding school - Frontend 3기.<br>
 
 <br>
 
-### JAVASCRIPT 추가 스터디
+### JavaScript 추가 스터디
 
 |기간| |
 |:--|:---------------------|
