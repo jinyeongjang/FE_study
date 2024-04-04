@@ -56,7 +56,7 @@ OZ coding school - Frontend 3기.
 | 2024. 4. 1. | [나만의 사용자 정보 입력받기(HTML+CSS+JS)](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
 | 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
 | 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
-| 2024. 4. 4. |[]() |
+| 2024. 4. 5. | Todo앱 만들기 |
 
 <br>
 
@@ -64,7 +64,9 @@ OZ coding school - Frontend 3기.
 
 | 기간 |  |
 |:---|:---|
-| 2024. 4. 2. | 자바스크립트 추가 스터디 
+| 2024. 4. 2. | 자바스크립트 추가 스터디
+| 2024. 4. 3. | 자바스크립트 추가 스터디
+| 2024. 4. 4. | 자바스크립트 추가 스터디
 
 
 <br>
