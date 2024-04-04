@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+    height: 100vh;
+    display: grid;
+    gap: 20px;
+    grid-template-rows: auto 1fr;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+#posts {
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 20px;
+    overflow-y: auto;
+}
+.post {
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.nickname {
+    margin-top: -1.2rem;
+    margin-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+    text-align: right;
+    font-weight: 600;
+}
