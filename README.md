@@ -1,5 +1,5 @@
 ## 프론트엔드 개발자가 되기위한 여정.
-OZ coding school - Frontend 3기.<br>
+OZ coding school - Frontend 3기.
 
 <img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
@@ -56,6 +56,7 @@ OZ coding school - Frontend 3기.<br>
 |2024.4. 1.|[나만의 사용자 정보 입력받기(HTML+CSS+JS)](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html)|
 |2024.4. 2.|[Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03)|
 |2024.4. 3.|[Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05)|
+|2024.4. 4.|[]()|
 
 <br>
 
