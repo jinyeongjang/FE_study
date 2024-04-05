@@ -3,8 +3,10 @@ OZ coding school - Frontend 3기.
 
 <img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+<br>
 
-### HTML
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> HTML
+
 
 | 기간 |   |
 |:---|:---|
@@ -22,7 +24,7 @@ OZ coding school - Frontend 3기.
 
 <br>
 
-### CSS
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/d3b3ac0e-7deb-4bf3-bdda-ea2403a6782d/image.svg" width="20" height="20"/> CSS
 
 | 기간 |   |
 |:---|:---|
@@ -47,7 +49,7 @@ OZ coding school - Frontend 3기.
 
 <br>
 
-### JavaScript
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/d02d4e3f-73ee-42ce-90ff-d0c787a3e452/image.svg" width="20" height="20"/> JavaScript 
 
 | 기간 |   |
 |:---|:---|
