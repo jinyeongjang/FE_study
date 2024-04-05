@@ -57,7 +57,7 @@ OZ coding school - Frontend 3기.
 | 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
 | 2024. 4. 2. | (진행중) prompt 활용하기 |
 | 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
-| 2024. 4. 4. | miniProject: 로또 번호 추첨기 |
+| 2024. 4. 4. | [miniProject: 로또 번호 추첨기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
 | 2024. 4. 5. | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
 | 2024. 4. .  | (진행중) Board앱 만들기 |
