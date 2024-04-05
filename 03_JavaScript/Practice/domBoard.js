@@ -88,6 +88,8 @@ for (let i = 0; i < posts.length; i++) {
 
 
 // 2. 도배글을 지워주세요
+const domPosts = document.querySelectorAll('.post')
+
 
 
 

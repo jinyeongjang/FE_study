@@ -1,6 +1,7 @@
 // TODO: 삼각형의 높이와 밑변의 길이를 입력받아 삼각형의 너비를 구하는 함수 triangle을 정의하세요. (삼각형의 높이와 밑변의 길이는 외부에서 전달받도록 코드를 작성해야 합니다.)
-function triangle() {
+function triangle(height, width) {
     // 여기에 코드를 작성하세요.
+  return (height, width) / 2;
   }
   
   // 함수를 작성했다면 터미널에 node test5.js를 입력하세요.

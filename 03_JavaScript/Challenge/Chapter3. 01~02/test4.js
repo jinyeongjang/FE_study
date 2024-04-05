@@ -1,6 +1,11 @@
 // TODO: 함수 내부에 선언된 변수 num1과 num2의 타입이 숫자일 경우, 두 수의 합을 반환하는 함수 add를 정의하세요. (매개변수를 사용하지 않습니다.)
 function add() {
     // 여기에 코드를 작성하세요.
+    let num1 = 1;
+    let num2 = 2;
+    if (typeof num1 === 'number' && typeof num2 === 'number'){
+      return num1 + num2;
+    }
   }
   // 함수를 작성했다면 터미널에 node test4.js를 입력하세요.
   

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>배열 메소드 추가 학습</title>
+</head>
+<body>
+    
+
+    <div id="container"></div>
+    <script>
+
+        const container = document.getElementById("container")
+        const crops = ["토마토", "고추", "가지", "고구마", "들깨"]
+
+        let result = crops.map(function(item){
+            const h2 = document.createElement("h2")
+            h2.textContent = `맛 좋은 ${item}`
+            container.append(h2)
+            return h2
+            
+        })
+        console.log(result)
+
+        // 콜백함수가 true를 반환한 아이템만 모아서 배열을 생성.
+        result = crops.filter(function(item){
+            return item.indexOf("고") !== -1
+        })
+        console.log(result)
+
+        // let crops.map(function(item){
+        //     return item + "맛있다"
+        // })
+
+        // let result = crops.map(function(item){
+        //     return item + "맛있다"
+
+        // })
+        // console.log(result)
+
+
+        // crops.forEach(function(item){
+        //     console.log(item)
+        // })
+
+    </script>
+
+</body>
+</html>
