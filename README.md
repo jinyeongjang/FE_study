@@ -1,7 +1,33 @@
 ## My journey to becoming a Frontend Developer. <br> 프론트엔드 개발자가 되기위한 여정.
 OZ coding school - Frontend 3기.
 
-<img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Posts.
+
+
+## Tech position.
+<img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white">
+
+<br>
+
+## Develop Tools.
+
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+
+## Stacks.
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br>
+
+## Posts.
+
+|벨로그::개발블로그|
+|:---|
+[HTML.](https://velog.io/@jinyeong0448/html) <br>
+[CSS.](https://velog.io/@jinyeong0448/css) <br>
+[JavaScript.](https://velog.io/@jinyeong0448/js) <br>
+
 
 <br>
 
@@ -15,7 +41,7 @@ OZ coding school - Frontend 3기.
 
 <br>
 
-### HTML 추가 스터디
+## HTML 추가 스터디
 
 | 기간 |   |
 |:---|:---|
@@ -35,7 +61,7 @@ OZ coding school - Frontend 3기.
 
 <br>
 
-### CSS 추가 스터디
+## CSS 추가 스터디
 
 | 기간 |   |
 |:---|:---|
@@ -43,7 +69,7 @@ OZ coding school - Frontend 3기.
 | 2024. 3. 24. | [배경화면과 박스 디자인 해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/04.%20CSS-background_box/background_box.html) |
 | 2024. 3. 25. | [회원가입 폼 꾸미기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/05.%20CSS-form_signup_redesign) |
 | 2024. 3. 25. | [소개 페이지 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/06.%20CSS-introduce_page) |
-| 2024. 3. 26. | [(진행중) 사이트 디자인 클론해보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/07.%20CSS-site_clone_design) |
+| 2024. 3. 26. | [사이트 디자인 클론해보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/07.%20CSS-site_clone_design) |
 | 2024. 3. 29. | [햄버거바 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/08.%20CSS-hamburgerbar) |
 | 2024. 3. 29. | [반응형 웹 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/09.%20CSS-simple_react_web) |
 
@@ -58,7 +84,7 @@ OZ coding school - Frontend 3기.
 | 2024. 4. 1. | [miniProject: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/01.%20monster/monster.html) |
 | 2024. 4. 1. | [나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
 | 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
-| 2024. 4. 2. | (진행중) prompt 활용하기 |
+| 2024. 4. 2. | prompt 활용하기 |
 | 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
 | 2024. 4. 4. | [miniProject: 로또 번호 추첨기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
@@ -72,7 +98,7 @@ OZ coding school - Frontend 3기.
 
 <br>
 
-### JavaScript 추가 스터디
+## JavaScript 추가 스터디
 
 | 기간 |  |
 |:---|:---|
@@ -80,12 +106,13 @@ OZ coding school - Frontend 3기.
 | 2024. 4. 3. | 자바스크립트 추가 스터디
 | 2024. 4. 4. | 자바스크립트 추가 스터디
 | 2024. 4. 5. | 자바스크립트 추가 스터디
+| 2024. 4. 6. | 자바스크립트 추가 스터디
 
 
 <br>
 
 
-### 모던 자바스크립트 Deep Dive 스터디
+## 모던 자바스크립트 Deep Dive 스터디
 
 | 기간 |  |
 |:---|:---|
