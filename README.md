@@ -1,8 +1,5 @@
 ## My journey to becoming a Frontend Developer. <br> 프론트엔드 개발자가 되기위한 여정.
-OZ coding school - Frontend 3기.
-
-Posts.
-
+OZ coding school - Frontend 3기. <br>
 
 ## Tech position.
 <img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white">
