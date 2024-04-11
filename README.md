@@ -1,27 +1,27 @@
 ## My journey to becoming a Frontend Developer. <br> 프론트엔드 개발자가 되기위한 여정.
 OZ coding school - Frontend 3기. <br>
 <br>
-> #### "지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."<br>
+#### "지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."<br>
 <br>
 
-> ## Tech position. 
-><img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white">
-
-<br>
-
-> ## Develop Tools.
-><img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+## Tech position.
+<img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white">
 
 <br>
 
-> ## Stacks.
-> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## Develop Tools.
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br>
 
-> ## Posts.
-> |벨로그::개발블로그 : https://velog.io/@jinyeong0448/html|
-> |:---|
+## Technical Stacks.
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br>
+
+## Posts.
+|벨로그::개발블로그 : https://velog.io/@jinyeong0448/posts|
+|:---|
 
 <br>
 
