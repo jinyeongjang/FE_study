@@ -82,9 +82,10 @@ OZ coding school - Frontend 3기. <br>
 | 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
 | 2024. 4. 5. | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
 | 2024. 4. .  | (진행중) Board앱 만들기 |
-| 2024. 4. 11.  | Todo앱 만들기 |
-| 2024. 4. 11.  | Chapter3 : function Challenge  |
-| 2024. 4. 11.  | miniProject: function_newElement |
+| 2024. 4. 11.  | [Todo앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
+| 2024. 4. 11.  | [Todo앱 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
+| 2024. 4. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
+| 2024. 4. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
 | 2024. 4. .  | (진행중) miniProject: SNS앱 만들기 |
 
 
