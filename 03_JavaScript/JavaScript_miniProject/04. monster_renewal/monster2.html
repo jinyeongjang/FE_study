@@ -3,26 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>몬스터 잡기 게임 리뉴얼</title>
+    <title>몬스터 잡기 게임</title>
 </head>
 <body>
 
     <div id = "container"></div>
 
     <script>
-    
-
-    // 구현해야할 기능. 공격력 부여하기.
-    
-        const player = {
-            체력: 100, 공격력: 12, 명중률: 80
-        }
-        const monster = {
-            체력: 80, 공격력: 22, 명중률: 70,
-        }
-
-
-        
+        let monsterHP = 100
         const container = document.getElementById("container")
         const h1 = document.createElement("h1")
         h1.textContent = "앗! 야생의 포켓몬이 나타났다"
@@ -33,7 +21,7 @@
         let attackCount = 0
         if(attackDamage > 0){
 
-            while(player.체력 > 0 && monster.체력 > 0){
+            while(monsterHP > 0){
                 monsterHP -= attackDamage // HP가 감소한다
 
                 // 데미지가 깎이다가 HP가 0보다 작아졌을 때에는 HP에 강제로 0을 대입하는 코드를 작성해보기.

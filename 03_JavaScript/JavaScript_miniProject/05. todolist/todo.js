@@ -1,13 +1,94 @@
-// 0. 버튼을 클릭했을 때 실행되는 이벤트 함수입니다.
-document.getElementById('add-btn').addEventListener('click', function () {
-    // 1. index.html에 있는 input 요소에 입력된 값(value)과 button 요소를 변수에 할당합니다.
-    // 2. 새로운 li요소를 만들고 input 요소에 입력된 값을 textContent로 갖도록 합니다.
-    // 3. li 요소는 클릭하면 해당 li 요소가 지워지는 delete 버튼을 가지고 있어야 합니다. (버튼이 실제로 동작하지 않아도 괜찮습니다.)
-    // 4. 입력창은 초기화되어야 합니다.
-    // 5. 만약 입력창에 아무것도 입력하지 않은 경우 alert로 유저에게 입력을 요청해야 합니다.
-  });
+// 요소 선택 및 배열 선언
+const todoList = document.getElementById('todo-list')
+const todoForm = document.getElementById('todo-form')
+let todoArr = [];
+
+// 로컬 저장소에 저장하기
+function saveTodos(){
+  const todoString = JSON.stringify(todoArr)
+  localStorage.setItem("myTodos", todoString)
+
+
+}
+
+// 로컬 저장소에 가져오기
+function loadTodos(){
+  const myTodos = localStorage.getItem("myTodos")
+  if(myTodos !== null){
+    todoArr = JSON.parse(myTodos)
+    displayTodos()
+  }
   
-  // 심화1) 입력한 TO-DO가 Local Storage에 저장되어 새로 고침 후에도 유지되도록 해보세요.
-  // 심화2) 할 일 항목에 완료 표시를 할 수 있는 체크박스를 추가해 보세요.
-  // 심화3) TO-DO 리스트를 드래그 앤 드롭으로 정렬할 수 있는 방법을 검색하고 적용해 보세요.
-  
+}
+loadTodos()
+
+
+// 할일 삭제하기
+function handleTodoDelBtnClick(clickedId){
+  todoArr = todoArr.filter(function(aTodo){
+    return aTodo.todoId !== clickedId
+  })
+  displayTodos()
+  saveTodos()
+}
+
+
+
+// 할일 수정하기
+function handleTodoItemClick(clickedId){
+  todoArr = todoArr.map(function(aTodo){
+    if(aTodo.todoId === clickedId){
+      return {
+        ...aTodo, todoDone: !aTodo.todoDone
+      }
+    }else{
+      return aTodo
+    }
+  })
+  displayTodos()
+  saveTodos()
+
+}
+
+// 할일 보여주기
+function displayTodos(){
+  todoList.innerHTML = ""
+  todoArr.forEach(function(aTodo){
+    const todoItem = document.createElement('li')
+    const todoDelBtn = document.createElement('span')
+    todoDelBtn.textContent = 'x'
+    todoItem.textContent = aTodo.todoText
+    todoItem.title = "클릭하면 완료됨"
+    if(aTodo.todoDone){
+      todoItem.classList.add("done")
+    }else{
+      todoItem.classList.add("yet")
+    }    
+    todoDelBtn.title = "클릭하면 삭제됨"
+
+    todoItem.addEventListener("click", function(){
+      handleTodoItemClick(aTodo.todoId)
+    })
+
+    todoDelBtn.addEventListener("click", function(){
+      handleTodoDelBtnClick(aTodo.todoId)
+    })
+
+    todoItem.appendChild(todoDelBtn)
+    todoList.appendChild(todoItem)
+  })
+}
+
+// 할일 추가하기
+todoForm.addEventListener("submit", function(e){
+  e.preventDefault()
+  const toBeAdded = {
+    todoText: todoForm.todo.value,
+    todoId: new Date().getTime(),
+    todoDone:false
+  }
+  todoForm.todo.value = ""
+  todoArr.push(toBeAdded)
+  displayTodos()
+  saveTodos()
+})

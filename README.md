@@ -19,12 +19,8 @@ OZ coding school - Frontend 3기. <br>
 
 ## Posts.
 
-|벨로그::개발블로그|
+|벨로그::개발블로그 : https://velog.io/@jinyeong0448/html|
 |:---|
-[HTML.](https://velog.io/@jinyeong0448/html) <br>
-[CSS.](https://velog.io/@jinyeong0448/css) <br>
-[JavaScript.](https://velog.io/@jinyeong0448/js) <br>
-
 
 <br>
 
@@ -81,16 +77,15 @@ OZ coding school - Frontend 3기. <br>
 | 2024. 4. 1. | [miniProject: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/01.%20monster/monster.html) |
 | 2024. 4. 1. | [나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
 | 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
-| 2024. 4. 2. | prompt 활용하기 |
 | 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
 | 2024. 4. 4. | [miniProject: 로또 번호 추첨기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
 | 2024. 4. 5. | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
 | 2024. 4. .  | (진행중) Board앱 만들기 |
-| 2024. 4. .  | (진행중) Todo앱 만들기 |
-| 2024. 4. .  | (진행중) Chapter3 : function Challenge  |
-| 2024. 4. .  | (진행중) miniProject: function_newElement |
-| 2024. 4. .  | (진행중) miniProject: Social Network Service |
+| 2024. 4. 11.  | Todo앱 만들기 |
+| 2024. 4. 11.  | Chapter3 : function Challenge  |
+| 2024. 4. 11.  | miniProject: function_newElement |
+| 2024. 4. .  | (진행중) miniProject: SNS앱 만들기 |
 
 
 <br>
@@ -104,6 +99,12 @@ OZ coding school - Frontend 3기. <br>
 | 2024. 4. 4. | 자바스크립트 추가 스터디
 | 2024. 4. 5. | 자바스크립트 추가 스터디
 | 2024. 4. 6. | 자바스크립트 추가 스터디
+| 2024. 4. 7. | 자바스크립트 추가 스터디
+| 2024. 4. 8. | 자바스크립트 추가 스터디
+| 2024. 4. 9. | 자바스크립트 추가 스터디
+| 2024. 4. 10. | 자바스크립트 추가 스터디
+| 2024. 4. 11. | 자바스크립트 추가 스터디
+
 
 
 <br>
@@ -113,4 +114,4 @@ OZ coding school - Frontend 3기. <br>
 
 | 기간 |  |
 |:---|:---|
-| 2024. 4. 5. | 01. 
+| 2024. 4. 11. | 01. 

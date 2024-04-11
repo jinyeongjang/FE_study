@@ -9,9 +9,18 @@ function createDiv(content, backgroundColor) {
   // 조건3. div 요소의 margin은 상 5px, 우 2px, 하 3px, 좌 8px가 되어야 합니다.
   // 조건4. div 요소의 글자색은 'white'가 되어야 합니다.
   // 여기에 코드를 작성하세요.
+
+  div.style.backgroundColor = backgroundColor;
+  div.style.color = 'white';
+  div.style.padding = '10px 20px';
+  div.style.margin = '5px 2px 3px 8px';
+  div.textContent = content;
+  document.body.appendChild(div);
 }
 // TODO: for 반복문을 사용하여 createDiv를 호출하세요.
 // 원하는 매개변수를 넣어보세요.
-for (;;) {
+
   // 여기에 코드를 작성하세요.
+  for (let i = 0; i < str.length; i++) {
+    createDiv('안녕하세요', 'purple');
 }
