@@ -3,7 +3,7 @@ OZ coding school - Frontend 3기 <br>
 **"지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."**
 <br><br>
 
-## Tech position.
+## Develop Position.
 <img src="https://img.shields.io/badge/Frontend-5578da?style=for-the-badge&logo=&logoColor=white">
 
 <br>
@@ -13,8 +13,8 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
-## Technical Stacks.
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## Develop Stacks.
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 <br>
 
@@ -87,7 +87,7 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
 | 2024. 4. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
 | 2024. 4. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
-| 2024. 4. 13.  | [회원가입 폼 만들기]() |
+| 2024. 4. 13.  | [회원가입 폼 리뉴얼] |
 
 
 <br>
