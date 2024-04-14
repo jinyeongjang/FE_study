@@ -88,7 +88,7 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
 | 2024. 4. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
 | 2024. 4. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
-| 2024. 4. 14.  | [시계 만들기]() |
+| 2024. 4. 14.  | [시계 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/10.%20Clock) |
 | 2024. 4. 14.  | [(진행중) 드림카 소개하기] |
 | 2024. 4. 15.  | [(진행중) 음식 주문서 만들기] |
 | 2024. 4. 15.  | [(진행중) Math 객체 메서드 사용하기] |
