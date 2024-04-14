@@ -21,16 +21,8 @@ const form = document.querySelector('form');
 // 입력한 정보를 객체로 만들어 반환하는 함수를 제공합니다.
 // HINT. 이 함수를 이벤트리스너 내부에서 호출하세요.
 function getUserInfo(
-  name,
-  ssn_front,
-  ssn_back,
-  username,
-  password,
-  emailId,
-  mailbox,
-  address,
-  gender,
-  agree
+  name, ssn_front, ssn_back, username, password,
+  emailId, mailbox, address, gender, agree
 ) {
   const userInfo = {
     name: name,
@@ -48,8 +40,49 @@ function getUserInfo(
 // 폼 제출 이벤트 리스너
 form.addEventListener('submit', function (event) {
   // 여기에 코드를 작성하세요.
+
+  // 제출시에 새로고침 방지.
+  event.preventDefault();
+
+
   // HINT. 사용해야할 모든 요소를 DOM 메서드로 변수에 할당합니다.
+  // 변수선언: name, ssn_front, ssn_back, username, password, 
+  //         passwordRetype, emailId, mailbox,address,gender
+
+  const name = document.querySelector('#name').value;
+  const ssn_front = document.querySelector('#ssn_front').value;
+  const ssn_back = document.querySelector('#ssn_back').value;
+  const username = document.querySelector('#username').value;
+  const password = document.querySelector('#password').value;
+  const passwordRetype = document.querySelector('#password-retype').value;
+  const emailId = document.querySelector('#email').value;
+  const mailbox = document.querySelector('#mailbox').value;
+  const address = document.querySelector('#address').value;
+  const gender = document.querySelector('input[name="gender"]:checked').value;
+  const agree = document.querySelector('#agree').checked;
+
   // 아이디(username)의 길이에 따라 알림창을 보여줍니다.(4글자 이상 8글자 이하))
+  if(username.length > 4 || username.length > 8) {
+    alert('아이디는 4자 이상, 8자 이하로 입력하세요');
+
   // 비밀번호(password), 비밀번호 확인(passwordRetype) 일치 여부에 따라 알림창을 보여줍니다.
-  // 그렇지 않은 경우 입력한 정보를 객체로 만들어 콘솔에 출력합니다.
+  }else if(password !== passwordRetype) {
+    alert('비밀번호가 일치하지 않습니다.');
+
+   // 그렇지 않은 경우 입력한 정보를 객체로 만들어 콘솔에 출력합니다.
+  }else{
+    const result = getUserInfo(
+      name, ssn_front, ssn_back, username, password, 
+      emailId, mailbox, address, gender, agree
+    );
+
+    // 모달창 기능 추가.
+    const modalContent = Object.entries(result).map(([key, value]) => `${key}: ${value}`).join('\n');
+    if  (confirm(modalContent + '\n\n[테스트]위의 정보로 회원가입을 진행합니다. 계속할까요?')) {
+
+    console.log(result);
+    alert('가입이 완료되었습니다.');
+  }else {
+  }
+}
 });
