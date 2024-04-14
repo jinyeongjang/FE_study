@@ -34,7 +34,7 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
-## HTML 추가 스터디
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> HTML 추가 스터디
 
 | 기간 |   |
 |:---|:---|
@@ -54,7 +54,7 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
-## CSS 추가 스터디
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/d3b3ac0e-7deb-4bf3-bdda-ea2403a6782d/image.svg" width="20" height="20"/> CSS 추가 스터디
 
 | 기간 |   |
 |:---|:---|
@@ -78,21 +78,34 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 1. | [나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
 | 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
 | 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
-| 2024. 4. 4. | [miniProject: 로또 번호 추첨기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
+| 2024. 4. 4. | [miniProject: lotto 번호 추첨 게임](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
-| 2024. 4. 5. | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
+| 2024. 4. . | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
 | 2024. 4. .  | (진행중) Board앱 만들기 |
-| 2024. 4. 11.  | [Todo앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
-| 2024. 4. 11.  | [Todo앱 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
+| 2024. 4. 11.  | [TodoList 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todoList) |
+| 2024. 4. 11.  | [TodoList 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todoList_renewal) |
 | 2024. 4. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
 | 2024. 4. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
 | 2024. 4. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
 | 2024. 4. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
+| 2024. 4. 14.  | [시계 만들기]() |
+| 2024. 4. 14.  | [(진행중) 드림카 소개하기] |
+| 2024. 4. 15.  | [(진행중) 음식 주문서 만들기] |
+| 2024. 4. 15.  | [(진행중) Math 객체 메서드 사용하기] |
+| 2024. 4. 15.  | [(진행중) lotto 번호 추첨 게임 리뉴얼] |
+| 2024. 4. 15.  | [(진행중) lotto 번호 추첨 & 번호 자동생성 기능] |
 
 
 <br>
 
-## JavaScript 추가 스터디
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> <img src="https://velog.velcdn.com/images/jinyeong0448/post/d3b3ac0e-7deb-4bf3-bdda-ea2403a6782d/image.svg" width="20" height="20"/> <img src="https://velog.velcdn.com/images/jinyeong0448/post/d02d4e3f-73ee-42ce-90ff-d0c787a3e452/image.svg" width="20" height="20"/> 프로젝트.
+| 기간 |   |
+|:---|:---|
+| 2024. 미정  | [(계획) 일정관리 플랫폼 프로젝트] |
+
+<br>
+
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/d02d4e3f-73ee-42ce-90ff-d0c787a3e452/image.svg" width="20" height="20"/> JavaScript 추가 스터디.
 
 | 기간 |  |
 |:---|:---|
@@ -106,13 +119,13 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 9. | 자바스크립트 추가 스터디
 | 2024. 4. 10. | 자바스크립트 추가 스터디
 | 2024. 4. 11. | 자바스크립트 추가 스터디
-
-
+| 2024. 4. 12. | 자바스크립트 추가 스터디
+| 2024. 4. 13. | 자바스크립트 추가 스터디
+| 2024. 4. 14. | 자바스크립트 추가 스터디
 
 <br>
 
-
-## 모던 자바스크립트 Deep Dive 스터디
+## 모던 자바스크립트 Deep Dive 스터디.
 
 | 기간 |  |
 |:---|:---|
