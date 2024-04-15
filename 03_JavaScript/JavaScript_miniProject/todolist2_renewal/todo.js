@@ -28,6 +28,8 @@ function addTodo() {
     deleteBtn.textContent = '[삭제]';
     deleteBtn.className = 'delete-btn';
     deleteBtn.onclick = function () {
+
+      // 모달창 구현. - Sweetalert2
       Swal.fire({
         title: '선택한 일정을 삭제할까요?',
         text: "삭제하시려면 '확인'을 눌러주세요.",

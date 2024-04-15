@@ -14,7 +14,9 @@ OZ coding school - Frontend 3기 <br>
 <br>
 
 ## Develop Stacks.
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+
 
 <br>
 
@@ -89,7 +91,7 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
 | 2024. 4. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
 | 2024. 4. 14.  | [시계 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/10.%20Clock) |
-| 2024. 4. 14.  | [(진행중) 드림카 소개하기] |
+| 2024. 4. 14.  | [드림카 소개하기] |
 | 2024. 4. 15.  | [(진행중) 음식 주문서 만들기] |
 | 2024. 4. 15.  | [(진행중) Math 객체 메서드 사용하기] |
 | 2024. 4. 15.  | [(진행중) lotto 번호 추첨 게임 리뉴얼] |
