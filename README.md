@@ -31,8 +31,8 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |   |
 |:---|:---|
-| 2024. 3. 21. | [miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html) |
-| 2024. 3. 22.| [miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html) |
+| 2024. 03. 21. | [miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html) |
+| 2024. 03. 22.| [miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html) |
 
 <br>
 
@@ -40,8 +40,8 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |   |
 |:---|:---|
-| 2024. 3. 21. | [태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html) |
-| 2024. 3. 22. | [회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html) |
+| 2024. 03. 21. | [태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html) |
+| 2024. 03. 22. | [회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html) |
 
 <br>
 
@@ -49,10 +49,10 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |   |
 |:---|:---|
-| 2024. 3. 23. | [miniProject: 프로필 페이지에 스타일 시트 더하기](https://github.com/jinyeongjang/FE_study/blob/main/02_CSS/CSS_miniProject/01.%20profile_css/profile_css.html) |
-| 2024. 3. 26. | [miniProject: 나만의 채팅방 만들기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/02.%20chat) |
-| 2024. 3. 27. | [miniProject: 채팅방에 말풍선 추가하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/03.%20chat_bubble) |
-| 2024. 3. 29. | [miniProject: 나만의 포도마켓 클론코딩 하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/04.%20podomarket) |
+| 2024. 03. 23. | [miniProject: 프로필 페이지에 스타일 시트 더하기](https://github.com/jinyeongjang/FE_study/blob/main/02_CSS/CSS_miniProject/01.%20profile_css/profile_css.html) |
+| 2024. 03. 26. | [miniProject: 나만의 채팅방 만들기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/02.%20chat) |
+| 2024. 03. 27. | [miniProject: 채팅방에 말풍선 추가하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/03.%20chat_bubble) |
+| 2024. 03. 29. | [miniProject: 나만의 포도마켓 클론코딩 하기](https://github.com/jinyeongjang/FE_study/tree/main/02_CSS/CSS_miniProject/04.%20podomarket) |
 
 <br>
 
@@ -60,13 +60,13 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |   |
 |:---|:---|
-| 2024. 3. 23. | [나만의 일기장 만들어보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/03.%20CSS-diary) |
-| 2024. 3. 24. | [배경화면과 박스 디자인 해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/04.%20CSS-background_box/background_box.html) |
-| 2024. 3. 25. | [회원가입 폼 꾸미기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/05.%20CSS-form_signup_redesign) |
-| 2024. 3. 25. | [소개 페이지 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/06.%20CSS-introduce_page) |
-| 2024. 3. 26. | [사이트 디자인 클론해보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/07.%20CSS-site_clone_design) |
-| 2024. 3. 29. | [햄버거바 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/08.%20CSS-hamburgerbar) |
-| 2024. 3. 29. | [반응형 웹 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/09.%20CSS-simple_react_web) |
+| 2024. 03. 23. | [나만의 일기장 만들어보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/03.%20CSS-diary) |
+| 2024. 03. 24. | [배경화면과 박스 디자인 해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/04.%20CSS-background_box/background_box.html) |
+| 2024. 03. 25. | [회원가입 폼 꾸미기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/05.%20CSS-form_signup_redesign) |
+| 2024. 03. 25. | [소개 페이지 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/06.%20CSS-introduce_page) |
+| 2024. 03. 26. | [사이트 디자인 클론해보기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/07.%20CSS-site_clone_design) |
+| 2024. 03. 29. | [햄버거바 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/08.%20CSS-hamburgerbar) |
+| 2024. 03. 29. | [반응형 웹 만들기](https://github.com/jinyeongjang/FE_study/tree/main/FE_notion_additional_tasks/09.%20CSS-simple_react_web) |
 
 <br>
 
@@ -74,30 +74,30 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |   |
 |:---|:---|
-| 2024. 3. 29. | [Chapter1 : 1~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter1.%2001~05) |
-| 2024. 3. 29. | [Chapter1 : 6~10 Challenge](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/Challenge/Chapter1.%2006~10/user_form.html) |
-| 2024. 4. 1. | [miniProject: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/01.%20monster/monster.html) |
-| 2024. 4. 1. | [나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
-| 2024. 4. 2. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
-| 2024. 4. 3. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
-| 2024. 4. 4. | [miniProject: lotto 번호 추첨 게임](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
-| 2024. 4. 5. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
-| 2024. 4. . | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
-| 2024. 4. .  | (진행중) Board앱 만들기 |
-| 2024. 4. 11.  | [TodoList 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
-| 2024. 4. 11.  | [TodoList 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
-| 2024. 4. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
-| 2024. 4. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
-| 2024. 4. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
-| 2024. 4. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
-| 2024. 4. 14.  | [시계 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/10.%20Clock) |
-| 2024. 4. 14.  | [드림카 소개하기] |
-| 2024. 4. 15.  | [음식 주문서 만들기] |
-| 2024. 4. 15.  | [Math 객체 메서드 사용하기] |
-| 2024. 4. 15.  | [lotto 번호 추첨 게임 리뉴얼] |
-| 2024. 4. 15.  | [lotto 번호 추첨 & 번호 자동생성 기능] |
-| 2024. 4. 17.  | [사용자 정보 관리] |
-| 2024. 4. 17.  | [사용자 정보 관리 - 배열] |
+| 2024. 03. 29. | [Chapter1 : 1~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter1.%2001~05) |
+| 2024. 03. 29. | [Chapter1 : 6~10 Challenge](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/Challenge/Chapter1.%2006~10/user_form.html) |
+| 2024. 04. 01. | [miniProject: 몬스터 잡기 게임](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/01.%20monster/monster.html) |
+| 2024. 04. 01. | [나만의 사용자 정보 입력받기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/JavaScript_miniProject/02.%20join_form/join.html) |
+| 2024. 04. 02. | [Chapter2 : 1~3 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2001~03) |
+| 2024. 04. 03. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
+| 2024. 04. 04. | [miniProject: lotto 번호 추첨 게임](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
+| 2024. 04. 05. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
+| 2024. 04. . | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
+| 2024. 04. .  | (진행중) Board앱 만들기 |
+| 2024. 04. 11.  | [TodoList 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
+| 2024. 04. 11.  | [TodoList 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
+| 2024. 04. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
+| 2024. 04. 11.  | [miniProject: function_newElement](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/07.%20function_newElement) |
+| 2024. 04. 12.  | [miniProject: SNS앱 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/08.%20SNS) |
+| 2024. 04. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
+| 2024. 04. 14.  | [시계 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/10.%20Clock) |
+| 2024. 04. 14.  | [드림카 소개하기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/11.%20Dreamcar) |
+| 2024. 04. 15.  | [음식 주문서 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/12.%20Food_order) |
+| 2024. 04. 15.  | [Math 객체 메서드 사용하기](https://github.com/jinyeongjang/FE_study/blob/main/03_JavaScript/Challenge/Chapter4.%2004~06/index.js) |
+| 2024. 04. 15.  | [lotto 번호 추첨 게임 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/13.%20lotto2) |
+| 2024. 04. 15.  | [lotto 번호 추첨 & 번호 자동생성 기능](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/14.%20lotto3) |
+| 2024. 04. 17.  | [사용자 정보 관리](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/15.%20user_management) |
+| 2024. 04. 17.  | [사용자 정보 관리 - 배열](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/16.%20user_management2) |
 
 <br>
 
@@ -112,19 +112,8 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |  |
 |:---|:---|
-| 2024. 4. 2. | 자바스크립트 추가 스터디
-| 2024. 4. 3. | 자바스크립트 추가 스터디
-| 2024. 4. 4. | 자바스크립트 추가 스터디
-| 2024. 4. 5. | 자바스크립트 추가 스터디
-| 2024. 4. 6. | 자바스크립트 추가 스터디
-| 2024. 4. 7. | 자바스크립트 추가 스터디
-| 2024. 4. 8. | 자바스크립트 추가 스터디
-| 2024. 4. 9. | 자바스크립트 추가 스터디
-| 2024. 4. 10. | 자바스크립트 추가 스터디
-| 2024. 4. 11. | 자바스크립트 추가 스터디
-| 2024. 4. 12. | 자바스크립트 추가 스터디
-| 2024. 4. 13. | 자바스크립트 추가 스터디
-| 2024. 4. 14. | 자바스크립트 추가 스터디
+| 2024. 04. 02 ~ 04. 06. | 자바스크립트 추가 스터디
+| 2024. 04. 08 ~ 04. 13. | 자바스크립트 추가 스터디
 
 <br>
 
@@ -132,4 +121,4 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |  |
 |:---|:---|
-| 2024. 4. 11. | 01. 
+| 2024. 04. 17. | 01. 
