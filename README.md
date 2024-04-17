@@ -101,6 +101,14 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
+## <img src="https://velog.velcdn.com/images/jinyeong0448/post/d02d4e3f-73ee-42ce-90ff-d0c787a3e452/image.svg" width="20" height="20"/> Vanilla JS - Simple Project.
+| 기간 |   |
+|:---|:---|
+| 2024. 04.  | [drag & drop] |
+| 2024. 04.  | [modal] |
+
+<br>
+
 ## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> <img src="https://velog.velcdn.com/images/jinyeong0448/post/d3b3ac0e-7deb-4bf3-bdda-ea2403a6782d/image.svg" width="20" height="20"/> <img src="https://velog.velcdn.com/images/jinyeong0448/post/d02d4e3f-73ee-42ce-90ff-d0c787a3e452/image.svg" width="20" height="20"/> 프로젝트.
 | 기간 |   |
 |:---|:---|
