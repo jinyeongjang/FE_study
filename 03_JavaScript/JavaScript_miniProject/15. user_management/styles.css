@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  justify-content: center;
+
+  margin: 0;
+  padding: 20px;
+}
+
+/* 제목 스타일 */
+h1 {
+  color: #333;
+}
+
+/* 입력란 스타일 */
+label {
+  font-weight: bold;
+}
+
+input[type='text'],
+input[type='email'] {
+  width: 250px;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* 버튼 스타일 */
+button {
+  padding: 10px 20px;
+  background-color: #4e9958;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+button:hover {
+  background-color: #49895e;
+}
+
+button:active {
+  background-color: #1e66b2;
+}
+
+#userInfo {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+#nameInput:hover {
+  border-color: #0056b3;
+  transition: 0.25s;
+}
+
+#emailInput:hover {
+  border-color: #0056b3;
+  transition: 0.25s;
+}

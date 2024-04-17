@@ -92,11 +92,12 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 4. 13.  | [회원가입 폼 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/09.%20join_form_renewal) |
 | 2024. 4. 14.  | [시계 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/10.%20Clock) |
 | 2024. 4. 14.  | [드림카 소개하기] |
-| 2024. 4. 15.  | [(진행중) 음식 주문서 만들기] |
-| 2024. 4. 15.  | [(진행중) Math 객체 메서드 사용하기] |
-| 2024. 4. 15.  | [(진행중) lotto 번호 추첨 게임 리뉴얼] |
-| 2024. 4. 15.  | [(진행중) lotto 번호 추첨 & 번호 자동생성 기능] |
-
+| 2024. 4. 15.  | [음식 주문서 만들기] |
+| 2024. 4. 15.  | [Math 객체 메서드 사용하기] |
+| 2024. 4. 15.  | [lotto 번호 추첨 게임 리뉴얼] |
+| 2024. 4. 15.  | [lotto 번호 추첨 & 번호 자동생성 기능] |
+| 2024. 4. 17.  | [사용자 정보 관리] |
+| 2024. 4. 17.  | [사용자 정보 관리 - 배열] |
 
 <br>
 
