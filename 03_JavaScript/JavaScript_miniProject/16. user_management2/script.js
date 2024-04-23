@@ -23,17 +23,19 @@ const filteredUsers = users.filter((user) => user.age >= 25 && user.age < 35);
 
 const gmailUsers = filteredUsers.filter((user) =>
   user.email.endsWith('@gmail.com')
+  
 );
 
 // 결과를 화면에 그리는 함수
 function renderUserData(userData) {
   const userDataDiv = document.getElementById('userData');
+  
 
   // innerHTML을 사용해 결과를 화면에 그려보세요
   // 여기에 코드를 작성하세요
   userDataDiv.innerHTML = userData.map(
-    (user) => `
-  <div class="user">
+    (user) => ` 
+  <div class="user"> 
   <p><strong>name:</strong> ${user.name}</p>
   <p><strong>Age:</strong> ${user.age}</p>
   <p><strong>Email:</strong> ${user.email}</p>
@@ -41,5 +43,4 @@ function renderUserData(userData) {
 `
   );
 }
-
 renderUserData(gmailUsers); // 사용자 데이터를 그리는 함수 실행

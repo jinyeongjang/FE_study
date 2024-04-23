@@ -12,6 +12,7 @@ document.getElementById('add-btn').addEventListener('click', function () {
       }
     });
   
+
   // 할일을 추가하는 함수
   function addTodo() {
     // 1. index.html에 있는 input 요소에 입력된 값(value)과 button 요소를 변수에 할당합니다.
@@ -34,7 +35,8 @@ document.getElementById('add-btn').addEventListener('click', function () {
         updateLocalStorage(); // 로컬 저장소 업데이트
       };
       li.appendChild(deleteBtn);
-  
+
+
       // 심화2) 할 일 항목에 완료 표시를 할 수 있는 체크박스를 추가해 보세요.
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
@@ -67,14 +69,34 @@ document.getElementById('add-btn').addEventListener('click', function () {
   
   // 페이지 로딩 시 로컬 저장소에서 일정 불러오기
   onload = function () {
-    // 드래그앤 드롭 정렬 기능 구현. - Sortable 라이브러리 사용.
-    const todoList = document.getElementById('todo-list');
-    const sortable = new Sortable(todoList, {
-      animation: 150,
-      onEnd: function (evt) {
-        updateLocalStorage();
-      },
-    });
+
+       // VanillaJS 드래그앤드롭 구현.
+       const sortableList = document.querySelector(".sortable-List");
+       const items = sortableList.querySelectorAll(".item");
+
+          items.forEach(item => {
+            item.addEventListener("dragstart", () => {
+              setTimeout(() => item.classList.add("dragging"), 0);
+            });
+            item.addEventListener("dragend", () => item.classList.remove("dragging"));
+          });
+
+            const initSortableList = (e) => {
+              e.preventDefault();
+              const draggingItem = document.querySelector(".dragging");
+              let siblings = [...sortableList.querySelectorAll(".item:not(.dragging)")];
+
+              let nextSibling = siblings.find(sibling => {
+                return e.clientY <= sibling.offsetTop + sibling.offsetHeight / 2;
+              });
+
+              sortableList.insertBefore(draggingItem, nextSibling);
+            }
+
+            sortableList.addEventListener("dragover", initSortableList);
+            sortableList.addEventListener("dragenter", e => e.preventDefault());
+
+
     // todolist 값 저장을 위한 초기화.
     const savedTodoList = localStorage.getItem('todoList');
     if (savedTodoList) {

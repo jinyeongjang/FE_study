@@ -9,7 +9,7 @@ body {
     border: 1px solid #ddd;
     border-radius: 5px;
   }
-  
+
   #todo-input {
     width: 70%;
     padding: 10px;
@@ -17,10 +17,23 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px;
   }
+
+  #todo-input:hover {
+    border-color: #757267;
+    border-width: 2px;
+    border-radius: 12px;
+    transition: 0.25s;
+
+  }
+
+  #todo-input:active {
+    border-color: #757267;
+    transition: 0.25s;
+  }
   
   #add-btn {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #0e96b5;
     color: white;
     border: none;
     border-radius: 4px;
@@ -29,6 +42,14 @@ body {
   
   #add-btn:hover {
     background-color: #0056b3;
+    border-radius: 5px;
+    transition: 0.25s;
+  }
+
+  #add-btn:active {
+    background-color: #56779a;
+    border-radius: 5px;
+    transition: 0.25s;
   }
   
   #todo-list {
@@ -39,6 +60,18 @@ body {
     cursor: pointer;
     padding: 10px;
     border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+  #todo-list li:hover {
+    background-color: #cbd1d7;
+
+    transition: 0.25s;
+  }
+
+  #todo-list li:active {
+    background-color: #6190bf;
+    transition: 0.25s;
   }
   
   #todo-list li:last-child {
@@ -61,5 +94,40 @@ body {
   .delete-btn:hover {
     background-color: #757267;
   }
+
+  #complete-checkbox {
+  background-color: #757267;
+}
+
+.sortable-list {
+  width: 425px;
+  padding: 25px;
+  background: #fff;
+  border-radius: 7px;
+  padding: 30px 25px 20px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+.sortable-list .item {
+  list-style: none;
+  display: flex;
+  cursor: move;
+  background: #fff;
+  align-items: center;
+  border-radius: 5px;
+  padding: 10px 13px;
+  margin-bottom: 11px;
+  border: 1px solid #ccc;
+  justify-content: space-between;
+}
+
+.item.dragging {
+  opacity: 0.6;
+}
+.item.dragging :where(.details, i) {
+  opacity: 0;
+}
+
+#complete-checkbox{
+  border-radius: 10px;
   
-  
+}

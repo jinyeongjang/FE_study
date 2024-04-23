@@ -16,6 +16,11 @@
 // TODO:햄버거 아이템 리스트 배열을 생성해줍니다. 
 let items = [];
 
+const addButton = document.getElementById('addButton');
+const removeButton = document.getElementById('removeButton')
+
+// 추가버튼을 누를때의 함수호출이 안되어있음.
+
 // 아이템 추가 버튼 클릭 시 호출되는 함수
 function addItem() {
 //   TODO:추가 버튼을 클릭하면 v배열 리스트 1개가 추가 됩니다.
@@ -58,5 +63,6 @@ items.forEach((item) => {
 // TODO: style.css 파일의 .show class를 이용하여 토글 기능을 만들어주세요!
 
   // 아이템 추가 및 제거 버튼 이벤트 핸들러
-addButton.addEventListener('click', addItem);
-removeButton.addEventListener('click', removeItem);
+document.getElementById('addButton').addEventListener('click', addItem);
+document.getElementById('removeButton').addEventListener('click', removeItem);
+

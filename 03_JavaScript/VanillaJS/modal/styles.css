@@ -1,0 +1,102 @@
+#open {
+    padding: 10px 20px;
+    background-color: rgb(67, 107, 209);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+#open:hover {
+    background-color: rgb(128, 157, 208);
+    transition: 0.25s;
+}
+
+#open:active {
+    background-color: rgb(58, 85, 132);
+    transition: 0.25s;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal__overlay {
+    background-color: rgba(243, 223, 112, 0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.modal__content {
+    background-color: white;
+    padding: 50px 100px;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    border-radius: 10px;
+    width: 50%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.modal__content::content{
+    transition: 1s;
+}
+
+button1 {
+    padding: 10px 20px;
+    background-color: rgb(108, 68, 20);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button1:hover {
+    
+    background-color: rgb(196, 186, 119);
+    transition: 0.25s;
+}
+
+button1:active {
+    
+    background-color: rgb(118, 108, 49);
+    transition: 0.25s;
+}
+
+button2 {
+    padding: 10px 20px;
+    background-color: rgb(108, 68, 20);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button2:hover {
+    
+    background-color: rgb(196, 186, 119);
+    transition: 0.25s;
+}
+
+button2:active {
+    
+    background-color: rgb(118, 108, 49);
+    transition: 0.25s;
+}
+
+h1 {
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+}
