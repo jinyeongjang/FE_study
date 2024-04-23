@@ -29,19 +29,15 @@ OZ coding school - Frontend 3기 <br>
 ## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> HTML
 
 
-| 기간 |   |
-|:---|:---|
-| 2024. 03. 21. | [miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html) |
-| 2024. 03. 22.| [miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html) |
+| 기간 |  |  |  |
+|:---|---|---|---|
+| 2024. 03. 21. | [miniProject: 프로필 페이지](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/01.%20profile/profile_page.html) | 2024. 03. 21. | [태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html) |
+| 2024. 03. 22.| [miniProject: 설문조사 양식 만들기](https://github.com/jinyeongjang/FE_study/blob/main/01_HTML/HTML_miniProject/02.%20form_servey/form_servey.html) | 2024. 03. 22. | [회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html) |
 
 <br>
-
-## <img src="https://velog.velcdn.com/images/jinyeong0448/post/1666b185-e216-439f-91cf-3c9216565eb3/image.svg" width="20" height="20"/> HTML 추가 스터디
-
 | 기간 |   |
 |:---|:---|
-| 2024. 03. 21. | [태그 더 사용해보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/01.%20HTML-tag/tag.html) |
-| 2024. 03. 22. | [회원가입 폼 만들어보기](https://github.com/jinyeongjang/FE_study/blob/main/FE_notion_additional_tasks/02.%20HTML-form_signup/form_signup.html) |
+
 
 <br>
 
@@ -101,6 +97,9 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 04. 23.  | [강아지 사전 Gallery](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/17.%20pet) |
 | 2024. 04. 23.  | [miniproject: TodoList ver.2](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/18.%20todolist_renewal2) |
 
+<br>
+
+
 
 <br>
 
@@ -128,9 +127,24 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
+
+
+
+
 ## 모던 자바스크립트 Deep Dive 스터디.
 
 | 기간 |  |
 |:---|:---|
 | 2024. 04. | 01 ~ 03.
 | 2024. 04. 24. | 04 ~ 08.
+
+
+## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/75918136-d457-4dba-b905-1e8d012470d5/image.svg" width="20" height="20"/> Node.js
+| 기간 |   |
+|:---|:---|
+
+## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/59a0ecd5-8d6d-42f1-b0a3-79657460ac53/image.svg" width="20" height="20"/> React
+| 기간 |   |
+|:---|:---|
+
+
