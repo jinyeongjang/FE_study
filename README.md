@@ -82,8 +82,8 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 04. 03. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
 | 2024. 04. 04. | [miniProject: lotto 번호 추첨 게임](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 04. 05. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
-| 2024. 04. . | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
-| 2024. 04. .  | (진행중) Board앱 만들기 |
+| 2024. 04. . | miniProject: 몬스터 잡기 게임 리뉴얼 |
+| 2024. 04. . | Board앱 만들기 |
 | 2024. 04. 11.  | [TodoList 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
 | 2024. 04. 11.  | [TodoList 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
 | 2024. 04. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
@@ -98,6 +98,9 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 04. 15.  | [lotto 번호 추첨 & 번호 자동생성 기능](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/14.%20lotto3) |
 | 2024. 04. 17.  | [사용자 정보 관리](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/15.%20user_management) |
 | 2024. 04. 17.  | [사용자 정보 관리 - 배열](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/16.%20user_management2) |
+| 2024. 04. 23.  | [강아지 사전 Gallery](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/17.%20pet) |
+| 2024. 04. 23.  | [miniproject: TodoList ver.2](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/18.%20todolist_renewal2) |
+
 
 <br>
 
@@ -129,4 +132,5 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |  |
 |:---|:---|
-| 2024. 04. 17. | 01. 
+| 2024. 04. | 01 ~ 03.
+| 2024. 04. 24. | 04 ~ 08.
