@@ -105,3 +105,10 @@
     transition: 0.25s;
     cursor: pointer;
   }
+
+
+  #filter-text:hover{
+    border-color: #757267;
+    border-width: 2px;
+    transition: 0.25s;
+  }
