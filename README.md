@@ -131,7 +131,7 @@ OZ coding school - Frontend 3기 <br>
 
 <br>
 
-## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/75918136-d457-4dba-b905-1e8d012470d5/image.svg" width="20" height="20"/> Node.js
+## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/75918136-d457-4dba-b905-1e8d012470d5/image.svg" width="20" height="20"/> node.js
 | 기간 |   |
 |:---|:---|
 | 2024. 04.  |  |
