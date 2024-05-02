@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+#add-btn {
+    background-color: rgb(198, 141, 141);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 40%;
+    padding: 20px;
+}
+
+#add-btn:hover {
+    background-color: rgb(82, 164, 192);
+    transition: 0.25s;
+}
+
+#has {
+    background-color: rgb(59, 42, 20);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    padding: 40px;
+    justify-content: right;
+}
