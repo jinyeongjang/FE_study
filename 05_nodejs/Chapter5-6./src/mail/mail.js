@@ -34,7 +34,7 @@ const sendMail = (to, name, type) => {
     const transporter = mailer.createTransporter({
         service: 'Gmail',
         auth: {
-            user: 'wlsdud4222@google.com',
+            user: 'johnahndev@google.com',
             pass: process.env.EMAIL_PASSWORD,
         },
     });
