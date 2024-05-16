@@ -41,6 +41,16 @@
     color: var(--mainRed);
 }
 
+.clear-btn:hover {
+    color: rosybrown;
+    transition: 0.25s;
+}
+
 .edit-btn {
     color: var(--mainGreen);
+}
+
+.edit-btn:hover {
+    color: rgb(81, 134, 81);
+    transition: 0.25s;
 }
