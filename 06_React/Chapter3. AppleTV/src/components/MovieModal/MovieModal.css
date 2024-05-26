@@ -1,0 +1,18 @@
+.presentation {
+    z-index: 1200;
+    position: absolute;
+}
+
+.wrapper-modal {
+    position: fixed;
+    inset: 0px;
+    background-color: rgb(0 0 0 /71%);
+    display: flex;
+    justify-content: center;
+}
+
+.modal__poster-img {
+    width: 100%;
+    height: auto;
+    
+}
