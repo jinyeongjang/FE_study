@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 2px;
+}
+ul {
+  padding-left: 20px;
+}
+li {
+  list-style: none;
+}
+
+input {
+  outline: none;
+  padding: 5px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+form {
+  margin: 20px;
+}
+
+li {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
