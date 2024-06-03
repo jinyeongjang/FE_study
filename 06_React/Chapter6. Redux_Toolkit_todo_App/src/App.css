@@ -1,86 +1,85 @@
 .container {
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .wapper {
-  width: 400px;
-  height: 600px;
-  border: 1px solid rgb(190, 174, 174);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 15px;
-  border-radius: 15px;
+    width: 400px;
+    height: 600px;
+    border: 1px solid rgb(190, 174, 174);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 .submit__btn {
-  margin-left: 10px;
-  padding: 9px;
-  border: none;
-  background-color: rgb(23, 150, 176);
-  color: white;
-  transition: 0.25s;
+    margin-left: 10px;
+    padding: 9px;
+    border: none;
+    background-color: rgb(23, 150, 176);
+    color: white;
+    transition: 0.25s;
 }
 
 .submit__btn:hover {
-  background-color: #54a68c;
+    background-color: #54a68c;
 }
 
 .submit__btn:active {
-  background-color: #255f4d;
+    background-color: #255f4d;
 }
 .todo__btn {
-  justify-content: center;
-  width: 50px;
-  background-color: rgb(183, 137, 53);
-  border: none;
-  color: rgb(255, 255, 255);
-  transition: 0.25s;
+    justify-content: center;
+    width: 50px;
+    background-color: rgb(183, 137, 53);
+    border: none;
+    color: rgb(255, 255, 255);
+    transition: 0.25s;
 }
 
 .todo__btn:hover {
-  background-color: rgb(156, 119, 70);
+    background-color: rgb(156, 119, 70);
 }
 
 .todo__btn:active {
-  background-color: #5f4619;
+    background-color: #5f4619;
 }
 
 .edit__btn {
-  justify-content: center;
-  width: 50px;
-  background-color: rgb(72, 119, 130);
-  color: white;
-  transition: 0.25s;
+    justify-content: center;
+    width: 50px;
+    background-color: rgb(72, 119, 130);
+    color: white;
+    transition: 0.25s;
 }
 
 .edit__btn:hover {
-  background-color: rgb(75, 168, 132);
+    background-color: rgb(75, 168, 132);
 }
 
 .edit__btn:active {
-  background-color: rgb(75, 168, 132);
-
+    background-color: rgb(75, 168, 132);
 }
 
 .todo__input {
-  width: 200px;
-  border-width: 0.5px;
-  border-radius: 5px;
-  background-color: transparent;
+    width: 200px;
+    border-width: 0.5px;
+    border-radius: 5px;
+    background-color: transparent;
 }
 
 .edit__input {
-  width: 150px;
+    width: 150px;
 }
 
 .filter {
-  width: 150px;
-  height: 30px;
-  padding: 2px;
-  margin-left: 10px;
+    width: 150px;
+    height: 30px;
+    padding: 2px;
+    margin-left: 10px;
 }
