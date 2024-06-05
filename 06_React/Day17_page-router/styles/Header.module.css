@@ -1,0 +1,30 @@
+/* Header.module.css */
+.navbar {
+    background-color: #364247;
+    padding: 1rem;
+    border-radius: 12px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navbar ul li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  .navbar ul li a {
+    color: #fff;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-decoration: none;
+    background: #364247;
+    transition: 0.25s;
+  }
+  
+  .navbar ul li a:hover {
+    background-color: #195169;
+  }
+  
