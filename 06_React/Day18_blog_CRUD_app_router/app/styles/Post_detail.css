@@ -1,0 +1,17 @@
+button {
+    padding: 5px 5px;
+    background-color: #0070f3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+  button:hover {
+    background-color: #0053b3;
+    transition: 0.25s;
+  }
+
+  form {
+    border-color: antiquewhite;
+  }
