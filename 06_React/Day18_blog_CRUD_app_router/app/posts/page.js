@@ -56,8 +56,8 @@ export default function PostDetail(props) {
       <>
         <div>제목 : {title}</div>
         <div>내용 : {content}</div>
-        <button onClick={handleEdit}>수정하기</button>
-        <button onClick={handleDelete}>삭제하기</button>
+        <button onClick={handleEdit}>수정</button>
+        <button onClick={handleDelete}>삭제</button>
       </>
     );
   } else {
@@ -72,7 +72,7 @@ export default function PostDetail(props) {
           value={content}
           onChange={(e) => setContent(e.target.value)}
         ></textarea>
-        <button onClick={handleSave}>저장하기</button>
+        <button onClick={handleSave}>저장</button>
       </>
     );
   }

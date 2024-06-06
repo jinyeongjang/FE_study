@@ -10,10 +10,10 @@ export default function Navbar() {
           <Link href="/">홈페이지</Link>
         </li>
         <li>
-          <Link href="/posts">글 목록</Link>
+          <Link href="/posts">목록</Link>
         </li>
         <li>
-          <Link href="/create">글 생성</Link>
+          <Link href="/create">생성</Link>
         </li>
       </ul>
     </>

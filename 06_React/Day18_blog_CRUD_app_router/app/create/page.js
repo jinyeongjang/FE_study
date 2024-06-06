@@ -40,7 +40,7 @@ export default function CreatePost() {
           value={content}
           onChange={(e) => setContent(e.target.value)}
         />
-        <button type="submit">작성하기</button>
+        <button type="submit">작성</button>
       </form>
     </>
   );
