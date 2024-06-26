@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import axios from 'axios';
 import TodoItem from './TodoItem';
 import ButtonContainer from './ButtonContainer';
